@@ -1,0 +1,6 @@
+.sconsign.dblite
+*.blif
+*.bin
+*.asc
+*.rpt
+
