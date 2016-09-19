@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="digital-elements.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5702"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5584"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path5566"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 15 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_z="50 : 15 : 1"
+       inkscape:persp3d-origin="25 : 9.9999998 : 1"
+       id="perspective2714" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.49999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_z="1 : 0.49999999 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333332 : 1"
+       id="perspective2806" />
+    <inkscape:perspective
+       id="perspective2819"
+       inkscape:persp3d-origin="372.04724 : 350.78738 : 1"
+       inkscape:vp_z="744.09449 : 526.18108 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 526.18108 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2777"
+       inkscape:persp3d-origin="75.000001 : 39.999999 : 1"
+       inkscape:vp_z="150 : 59.999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 59.999999 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3275"
+       inkscape:persp3d-origin="50 : 33.333332 : 1"
+       inkscape:vp_z="100 : 49.999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 49.999999 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5533"
+       inkscape:persp3d-origin="32 : 21.333332 : 1"
+       inkscape:vp_z="64.000001 : 31.999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 31.999999 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 15 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_z="50 : 15 : 1"
+       inkscape:persp3d-origin="25 : 9.9999998 : 1"
+       id="perspective2714-8" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.49999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_z="1 : 0.49999999 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333332 : 1"
+       id="perspective2806-6" />
+    <inkscape:perspective
+       id="perspective2819-4"
+       inkscape:persp3d-origin="372.04724 : 350.78738 : 1"
+       inkscape:vp_z="744.09449 : 526.18108 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 526.18108 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2777-7"
+       inkscape:persp3d-origin="75.000001 : 39.999999 : 1"
+       inkscape:vp_z="150 : 59.999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 59.999999 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3275-4"
+       inkscape:persp3d-origin="50 : 33.333332 : 1"
+       inkscape:vp_z="100 : 49.999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 49.999999 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5533-3"
+       inkscape:persp3d-origin="32 : 21.333332 : 1"
+       inkscape:vp_z="64.000001 : 31.999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 31.999999 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2557"
+       inkscape:persp3d-origin="25 : 16.666667 : 1"
+       inkscape:vp_z="50 : 24.999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 24.999999 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 15 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_z="50 : 15 : 1"
+       inkscape:persp3d-origin="25 : 9.9999998 : 1"
+       id="perspective2714-7" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.49999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_z="1 : 0.49999999 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333332 : 1"
+       id="perspective2806-0" />
+    <inkscape:perspective
+       id="perspective2819-5"
+       inkscape:persp3d-origin="372.04724 : 350.78738 : 1"
+       inkscape:vp_z="744.09449 : 526.18108 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 526.18108 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2777-9"
+       inkscape:persp3d-origin="75.000001 : 39.999999 : 1"
+       inkscape:vp_z="150 : 59.999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 59.999999 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3275-8"
+       inkscape:persp3d-origin="50 : 33.333332 : 1"
+       inkscape:vp_z="100 : 49.999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 49.999999 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5533-6"
+       inkscape:persp3d-origin="32 : 21.333332 : 1"
+       inkscape:vp_z="64.000001 : 31.999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 31.999999 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2557-3"
+       inkscape:persp3d-origin="25 : 16.666667 : 1"
+       inkscape:vp_z="50 : 24.999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 24.999999 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 15 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_z="50 : 15 : 1"
+       inkscape:persp3d-origin="25 : 9.9999998 : 1"
+       id="perspective2714-1" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.49999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_z="1 : 0.49999999 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333332 : 1"
+       id="perspective2806-1" />
+    <inkscape:perspective
+       id="perspective2819-0"
+       inkscape:persp3d-origin="372.04724 : 350.78738 : 1"
+       inkscape:vp_z="744.09449 : 526.18108 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 526.18108 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2777-5"
+       inkscape:persp3d-origin="75.000001 : 39.999999 : 1"
+       inkscape:vp_z="150 : 59.999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 59.999999 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3275-86"
+       inkscape:persp3d-origin="50 : 33.333332 : 1"
+       inkscape:vp_z="100 : 49.999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 49.999999 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5533-0"
+       inkscape:persp3d-origin="32 : 21.333332 : 1"
+       inkscape:vp_z="64.000001 : 31.999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 31.999999 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2557-6"
+       inkscape:persp3d-origin="25 : 16.666667 : 1"
+       inkscape:vp_z="50 : 24.999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_x="0 : 24.999999 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 49.999999 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_z="100 : 49.999999 : 1"
+       inkscape:persp3d-origin="50 : 33.333332 : 1"
+       id="perspective3848" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4,0.4)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5702-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-9-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4,0.4)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5702-2-6" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="345.75953"
+     inkscape:cy="526.44725"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="background">
+    <rect
+       style="opacity:1;fill:#f9f9f9;fill-opacity:0.57425741;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4278"
+       width="629.54254"
+       height="274.979"
+       x="195.86082"
+       y="58.092182"
+       ry="30.553221"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/digital-elements-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="fpga-elements"
+     transform="translate(0,-308.26772)"
+     style="display:inline">
+    <g
+       id="g4604"
+       transform="translate(40.406102,26.437281)"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/digital-elements-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         sodipodi:nodetypes="cc"
+         id="path3059-5"
+         d="m 366.3466,477.39767 c 19.67836,0 24.59795,0 24.59795,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         id="path3061-8"
+         d="m 333.69475,469.02545 -27.57445,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         id="path3944-1"
+         d="m 334.53197,485.76999 -28.7173,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         sodipodi:nodetypes="ccccccsccccsssssccc"
+         id="path2884-3"
+         d="m 332.85748,460.65314 0,1.19605 0,31.09704 0,1.19605 1.19605,0 15.9472,0 c 9.43382,0 16.74458,-7.53509 16.74458,-16.74458 0,-9.20947 -7.31076,-16.74456 -16.74458,-16.74456 0,0 0,0 -15.9472,0 l -1.19605,0 z m 2.39207,2.39207 c 6.67869,0 10.93524,0 12.75777,0 0.99672,0 1.49505,0 1.74424,0 0.12465,0 0.19314,0 0.22436,0 0.0145,0 0.0218,0 0.0249,0 8.17192,0 13.95382,6.39638 13.95382,14.35249 0,7.9561 -6.18059,14.35248 -14.35249,14.35248 l -14.35251,0 0,-28.70497 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4597"
+       transform="translate(40.406102,29.294424)"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/digital-elements-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         sodipodi:nodetypes="cc"
+         id="path3059-4-2"
+         d="m 370.46005,550.57808 c 18.94492,0 23.68117,0 23.68117,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         id="path3061-6-2"
+         d="m 337.80814,542.20581 -23.60157,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         id="path3944-7-3"
+         d="m 338.64539,558.9504 -24.7444,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         transform="matrix(0.83722854,0,0,0.83722854,334.04066,496.57686)"
+         inkscape:label="Layer 1"
+         id="g2560-8"
+         style="stroke-width:2.388834;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           sodipodi:nodetypes="ccsccccscccccccccsccsc"
+           id="path4973-2"
+           d="m -2.40625,44.5 2,2.4375 c 0,0 5.65625,7.000049 5.65625,17.5625 0,10.562451 -5.65625,17.5625 -5.65625,17.5625 l -2,2.4375 3.15625,0 14,0 c 2.408076,10e-7 7.689699,0.02451 13.625,-2.40625 5.935301,-2.430764 12.536536,-7.343266 17.6875,-16.875 L 44.75,64.5 46.0625,63.78125 C 35.759387,44.71559 19.506574,44.5 14.75,44.5 l -14,0 -3.15625,0 z m 5.875,3 11.28125,0 c 4.684173,0 18.28685,-0.130207 27.96875,17 C 37.951964,72.929075 32.197469,77.18391 27,79.3125 21.639339,81.507924 17.158075,81.500001 14.75,81.5 l -11.25,0 c 1.8735884,-3.108434 4.75,-9.04935 4.75,-17 0,-7.973354 -2.9085314,-13.900185 -4.78125,-17 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.388834;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g4589"
+       transform="translate(40.406102,29.294424)"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/digital-elements-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         sodipodi:nodetypes="cc"
+         id="path3059-03-2"
+         d="m 253.04271,550.3747 c 19.16483,0 23.95604,0 23.95604,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         id="path3061-4-0"
+         d="m 219.8765,542.00243 -27.52042,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         id="path3944-5-5"
+         d="m 220.69395,558.74699 -28.77006,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         transform="matrix(0.83722854,0,0,0.83722854,216.62327,496.37346)"
+         inkscape:label="Layer 1"
+         id="g2560-2-7"
+         style="stroke-width:2.388834;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           sodipodi:nodetypes="ccccsccccsc"
+           d="m -2.25,81.500005 c -1.597374,2.6444 -2.25,3 -2.25,3 l -3.65625,0 2,-2.4375 c 0,0 5.65625,-7.000054 5.65625,-17.562505 0,-10.562451 -5.65625,-17.5625 -5.65625,-17.5625 l -2,-2.4375 3.65625,0 c 0.78125,0.9375 1.421875,1.65625 2.21875,3 1.872719,3.099815 4.78125,9.026646 4.78125,17 0,7.95065 -2.896697,13.879425 -4.75,17.000005 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.388834;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3516-8"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="ccsccccscccccccccsccsc"
+           id="path4973-6-7"
+           d="m -2.40625,44.5 2,2.4375 c 0,0 5.65625,7.000049 5.65625,17.5625 0,10.562451 -5.65625,17.5625 -5.65625,17.5625 l -2,2.4375 3.15625,0 14,0 c 2.408076,10e-7 7.689699,0.02451 13.625,-2.40625 5.935301,-2.430764 12.536536,-7.343266 17.6875,-16.875 L 44.75,64.5 46.0625,63.78125 C 35.759387,44.71559 19.506574,44.5 14.75,44.5 l -14,0 -3.15625,0 z m 5.875,3 11.28125,0 c 4.684173,0 18.28685,-0.130207 27.96875,17 C 37.951964,72.929075 32.197469,77.18391 27,79.3125 21.639339,81.507924 17.158075,81.500001 14.75,81.5 l -11.25,0 c 1.8735884,-3.108434 4.75,-9.04935 4.75,-17 0,-7.973354 -2.9085314,-13.900185 -4.78125,-17 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.388834;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g4610"
+       transform="translate(0,12.865853)"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/digital-elements-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         y="473.60895"
+         x="502.62604"
+         height="73.65152"
+         width="54.521255"
+         id="rect1311-3"
+         style="opacity:1;fill:none;fill-opacity:0.03703703;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         inkscape:connector-curvature="0"
+         id="path3085-36"
+         d="m 502.1478,491.30441 -36.23995,0"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         inkscape:connector-curvature="0"
+         id="path3087-91"
+         d="m 502.14788,529.56502 -37.58236,0"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         inkscape:connector-curvature="0"
+         id="path3091-4"
+         d="m 557.62551,491.30436 33.54275,0"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         sodipodi:linespacing="100%"
+         id="text3850-1"
+         y="495.87064"
+         x="516.39087"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.39118671px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="495.87064"
+           x="516.39087"
+           id="tspan3852-9"
+           sodipodi:role="line">D</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         sodipodi:linespacing="100%"
+         id="text3858-7"
+         y="496.08713"
+         x="552.75482"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.39118671px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="496.08713"
+           x="552.75482"
+           id="tspan3860-5"
+           sodipodi:role="line">Q</tspan></text>
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         sodipodi:nodetypes="ccc"
+         id="path3888-8"
+         d="m 502.34057,524.37397 13.9928,6.0838 -13.9928,6.08385"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4583"
+       transform="translate(40.406102,29.294424)"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/digital-elements-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         sodipodi:nodetypes="cc"
+         id="path3059-0-0-9"
+         d="m 258.73988,474.39276 16.07351,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         id="path3061-64-7-9"
+         d="m 216.78347,474.39276 -24.41539,0"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         sodipodi:nodetypes="ccccccccccccc"
+         id="path2638-9-6"
+         d="m 216.72088,455.6336 0,2.01458 0,33.48914 0,2.01459 1.80528,-0.88957 34.35253,-16.74456 0,-2.25005 -34.35253,-16.74459 -1.80528,-0.88954 z m 2.51168,4.02916 30.24487,14.72998 -30.24487,14.73 0,-29.45998 z"
+         style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <circle
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-config1.png"
+         id="path2671-0-3"
+         style="display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         cx="255.2596"
+         cy="474.39273"
+         r="3.3489141" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 636.37507,520.75584 132.32999,0"
+       id="path4621"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/digital-elements-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="262.63968"
+       y="415.96613"
+       id="text4625"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/digital-elements-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4627"
+         x="262.63968"
+         y="415.96613"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Puertas lógicas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="478.81232"
+       y="415.96613"
+       id="text4625-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/digital-elements-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4627-7"
+         x="478.81232"
+         y="415.96613"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Biestables</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="662.6601"
+       y="415.96613"
+       id="text4625-9-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/digital-elements-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4627-7-9"
+         x="662.6601"
+         y="415.96613"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Cables</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="269.71075"
+       y="440.20978"
+       id="text4625-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/digital-elements-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4627-2"
+         x="269.71075"
+         y="440.20978"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Manipulación bits</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="458.60928"
+       y="440.20978"
+       id="text4625-5-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/digital-elements-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4627-2-6"
+         x="458.60928"
+         y="440.20978"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Almacenamiento bits</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="641.4469"
+       y="440.20978"
+       id="text4625-5-6-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/digital-elements-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4627-2-6-4"
+         x="641.4469"
+         y="440.20978"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Transporte bits</tspan></text>
+  </g>
+</svg>
