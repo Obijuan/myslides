@@ -1,0 +1,3703 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="fpga-hdl-1.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4328"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4198"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4459"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4461"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4210"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5274" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker11853"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11855"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5150" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5153" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7133"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7135"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5019"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5021"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4796-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4798-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4796-9-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4798-8-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4796-9-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4798-8-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4796-9-0-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4798-8-3-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4796-9-0-7-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4798-8-3-7-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4796-9-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4798-8-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9196-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9198-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4796-9-0-7-6-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4798-8-3-7-2-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4796-9-0-7-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4798-8-3-7-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4796-9-7-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4798-8-6-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4796-9-0-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4798-8-3-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4796-9-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4798-8-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker11474-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path11476-1"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5543-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5545-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5156-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5156-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-2-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5156-3-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5543-6-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5545-3-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-2-9-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5156-3-2-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5543-6-92"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5545-3-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4328-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4198-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4459-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4461-3"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-34"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4210-7"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <g
+       id="socket">
+      <rect
+         id="rect5392"
+         y="15"
+         x="6"
+         width="20"
+         height="20" />
+    </g>
+    <g
+       id="pclk">
+      <path
+         id="path5395"
+         d="M0,20 0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="nclk">
+      <path
+         id="path5398"
+         d="m0,0 0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="000">
+      <path
+         id="path5401"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="0m0">
+      <path
+         id="path5404"
+         d="m0,20 3,0 3,-10 3,10 11,0"
+         class="s1" />
+    </g>
+    <g
+       id="0m1">
+      <path
+         id="path5407"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="0mx">
+      <path
+         id="path5410"
+         d="M3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path5412"
+         d="m20,15 -5,5"
+         class="s2" />
+      <path
+         id="path5414"
+         d="M20,10 10,20"
+         class="s2" />
+      <path
+         id="path5416"
+         d="M20,5 5,20"
+         class="s2" />
+      <path
+         id="path5418"
+         d="M20,0 4,16"
+         class="s2" />
+      <path
+         id="path5420"
+         d="M15,0 6,9"
+         class="s2" />
+      <path
+         id="path5422"
+         d="M10,0 9,1"
+         class="s2" />
+      <path
+         id="path5424"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="0md">
+      <path
+         id="path5427"
+         d="m8,20 10,0"
+         class="s3" />
+      <path
+         id="path5429"
+         d="m0,20 5,0"
+         class="s1" />
+    </g>
+    <g
+       id="0mu">
+      <path
+         id="path5432"
+         d="m0,20 3,0 C 7,10 10.107603,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="0mz">
+      <path
+         id="path5435"
+         d="m0,20 3,0 C 10,10 15,10 20,10"
+         class="s1" />
+    </g>
+    <g
+       id="111">
+      <path
+         id="path5438"
+         d="M0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="1m0">
+      <path
+         id="path5441"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+    </g>
+    <g
+       id="1m1">
+      <path
+         id="path5444"
+         d="M0,0 3,0 6,10 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="1mx">
+      <path
+         id="path5447"
+         d="m3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5449"
+         d="M0,0 20,0"
+         class="s1" />
+      <path
+         id="path5451"
+         d="m20,15 -5,5"
+         class="s2" />
+      <path
+         id="path5453"
+         d="M20,10 10,20"
+         class="s2" />
+      <path
+         id="path5455"
+         d="M20,5 8,17"
+         class="s2" />
+      <path
+         id="path5457"
+         d="M20,0 7,13"
+         class="s2" />
+      <path
+         id="path5459"
+         d="M15,0 6,9"
+         class="s2" />
+      <path
+         id="path5461"
+         d="M10,0 5,5"
+         class="s2" />
+      <path
+         id="path5463"
+         d="M3.5,1.5 5,0"
+         class="s2" />
+    </g>
+    <g
+       id="1md">
+      <path
+         id="path5466"
+         d="m0,0 3,0 c 4,10 7,20 17,20"
+         class="s1" />
+    </g>
+    <g
+       id="1mu">
+      <path
+         id="path5469"
+         d="M0,0 5,0"
+         class="s1" />
+      <path
+         id="path5471"
+         d="M8,0 18,0"
+         class="s3" />
+    </g>
+    <g
+       id="1mz">
+      <path
+         id="path5474"
+         d="m0,0 3,0 c 7,10 12,10 17,10"
+         class="s1" />
+    </g>
+    <g
+       id="xxx">
+      <path
+         id="path5477"
+         d="m0,20 20,0"
+         class="s1" />
+      <path
+         id="path5479"
+         d="M0,0 20,0"
+         class="s1" />
+      <path
+         id="path5481"
+         d="M0,5 5,0"
+         class="s2" />
+      <path
+         id="path5483"
+         d="M0,10 10,0"
+         class="s2" />
+      <path
+         id="path5485"
+         d="M0,15 15,0"
+         class="s2" />
+      <path
+         id="path5487"
+         d="M0,20 20,0"
+         class="s2" />
+      <path
+         id="path5489"
+         d="M5,20 20,5"
+         class="s2" />
+      <path
+         id="path5491"
+         d="M10,20 20,10"
+         class="s2" />
+      <path
+         id="path5493"
+         d="m15,20 5,-5"
+         class="s2" />
+    </g>
+    <g
+       id="xm0">
+      <path
+         id="path5496"
+         d="M0,0 4,0 9,20"
+         class="s1" />
+      <path
+         id="path5498"
+         d="m0,20 20,0"
+         class="s1" />
+      <path
+         id="path5500"
+         d="M0,5 4,1"
+         class="s2" />
+      <path
+         id="path5502"
+         d="M0,10 5,5"
+         class="s2" />
+      <path
+         id="path5504"
+         d="M0,15 6,9"
+         class="s2" />
+      <path
+         id="path5506"
+         d="M0,20 7,13"
+         class="s2" />
+      <path
+         id="path5508"
+         d="M5,20 8,17"
+         class="s2" />
+    </g>
+    <g
+       id="xm1">
+      <path
+         id="path5511"
+         d="M0,0 20,0"
+         class="s1" />
+      <path
+         id="path5513"
+         d="M0,20 4,20 9,0"
+         class="s1" />
+      <path
+         id="path5515"
+         d="M0,5 5,0"
+         class="s2" />
+      <path
+         id="path5517"
+         d="M0,10 9,1"
+         class="s2" />
+      <path
+         id="path5519"
+         d="M0,15 7,8"
+         class="s2" />
+      <path
+         id="path5521"
+         d="M0,20 5,15"
+         class="s2" />
+    </g>
+    <g
+       id="xmx">
+      <path
+         id="path5524"
+         d="m0,20 20,0"
+         class="s1" />
+      <path
+         id="path5526"
+         d="M0,0 20,0"
+         class="s1" />
+      <path
+         id="path5528"
+         d="M0,5 5,0"
+         class="s2" />
+      <path
+         id="path5530"
+         d="M0,10 10,0"
+         class="s2" />
+      <path
+         id="path5532"
+         d="M0,15 15,0"
+         class="s2" />
+      <path
+         id="path5534"
+         d="M0,20 20,0"
+         class="s2" />
+      <path
+         id="path5536"
+         d="M5,20 20,5"
+         class="s2" />
+      <path
+         id="path5538"
+         d="M10,20 20,10"
+         class="s2" />
+      <path
+         id="path5540"
+         d="m15,20 5,-5"
+         class="s2" />
+    </g>
+    <g
+       id="xmd">
+      <path
+         id="path5543"
+         d="m0,0 4,0 c 3,10 6,20 16,20"
+         class="s1" />
+      <path
+         id="path5545"
+         d="m0,20 20,0"
+         class="s1" />
+      <path
+         id="path5547"
+         d="M0,5 4,1"
+         class="s2" />
+      <path
+         id="path5549"
+         d="M0,10 5.5,4.5"
+         class="s2" />
+      <path
+         id="path5551"
+         d="M0,15 6.5,8.5"
+         class="s2" />
+      <path
+         id="path5553"
+         d="M0,20 8,12"
+         class="s2" />
+      <path
+         id="path5555"
+         d="m5,20 5,-5"
+         class="s2" />
+      <path
+         id="path5557"
+         d="m10,20 2.5,-2.5"
+         class="s2" />
+    </g>
+    <g
+       id="xmu">
+      <path
+         id="path5560"
+         d="M0,0 20,0"
+         class="s1" />
+      <path
+         id="path5562"
+         d="m0,20 4,0 C 7,10 10,0 20,0"
+         class="s1" />
+      <path
+         id="path5564"
+         d="M0,5 5,0"
+         class="s2" />
+      <path
+         id="path5566"
+         d="M0,10 10,0"
+         class="s2" />
+      <path
+         id="path5568"
+         d="M0,15 10,5"
+         class="s2" />
+      <path
+         id="path5570"
+         d="M0,20 6,14"
+         class="s2" />
+    </g>
+    <g
+       id="xmz">
+      <path
+         id="path5573"
+         d="m0,0 4,0 c 6,10 11,10 16,10"
+         class="s1" />
+      <path
+         id="path5575"
+         d="m0,20 4,0 C 10,10 15,10 20,10"
+         class="s1" />
+      <path
+         id="path5577"
+         d="M0,5 4.5,0.5"
+         class="s2" />
+      <path
+         id="path5579"
+         d="M0,10 6.5,3.5"
+         class="s2" />
+      <path
+         id="path5581"
+         d="M0,15 8.5,6.5"
+         class="s2" />
+      <path
+         id="path5583"
+         d="M0,20 11.5,8.5"
+         class="s2" />
+    </g>
+    <g
+       id="ddd">
+      <path
+         id="path5586"
+         d="m0,20 20,0"
+         class="s3" />
+    </g>
+    <g
+       id="dm0">
+      <path
+         id="path5589"
+         d="m0,20 10,0"
+         class="s3" />
+      <path
+         id="path5591"
+         d="m12,20 8,0"
+         class="s1" />
+    </g>
+    <g
+       id="dm1">
+      <path
+         id="path5594"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="dmx">
+      <path
+         id="path5597"
+         d="M3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path5599"
+         d="m20,15 -5,5"
+         class="s2" />
+      <path
+         id="path5601"
+         d="M20,10 10,20"
+         class="s2" />
+      <path
+         id="path5603"
+         d="M20,5 5,20"
+         class="s2" />
+      <path
+         id="path5605"
+         d="M20,0 4,16"
+         class="s2" />
+      <path
+         id="path5607"
+         d="M15,0 6,9"
+         class="s2" />
+      <path
+         id="path5609"
+         d="M10,0 9,1"
+         class="s2" />
+      <path
+         id="path5611"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="dmd">
+      <path
+         id="path5614"
+         d="m0,20 20,0"
+         class="s3" />
+    </g>
+    <g
+       id="dmu">
+      <path
+         id="path5617"
+         d="m0,20 3,0 C 7,10 10.107603,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="dmz">
+      <path
+         id="path5620"
+         d="m0,20 3,0 C 10,10 15,10 20,10"
+         class="s1" />
+    </g>
+    <g
+       id="uuu">
+      <path
+         id="path5623"
+         d="M0,0 20,0"
+         class="s3" />
+    </g>
+    <g
+       id="um0">
+      <path
+         id="path5626"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+    </g>
+    <g
+       id="um1">
+      <path
+         id="path5629"
+         d="M0,0 10,0"
+         class="s3" />
+      <path
+         id="path5631"
+         d="m12,0 8,0"
+         class="s1" />
+    </g>
+    <g
+       id="umx">
+      <path
+         id="path5634"
+         d="m3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5636"
+         d="M0,0 20,0"
+         class="s1" />
+      <path
+         id="path5638"
+         d="m20,15 -5,5"
+         class="s2" />
+      <path
+         id="path5640"
+         d="M20,10 10,20"
+         class="s2" />
+      <path
+         id="path5642"
+         d="M20,5 8,17"
+         class="s2" />
+      <path
+         id="path5644"
+         d="M20,0 7,13"
+         class="s2" />
+      <path
+         id="path5646"
+         d="M15,0 6,9"
+         class="s2" />
+      <path
+         id="path5648"
+         d="M10,0 5,5"
+         class="s2" />
+      <path
+         id="path5650"
+         d="M3.5,1.5 5,0"
+         class="s2" />
+    </g>
+    <g
+       id="umd">
+      <path
+         id="path5653"
+         d="m0,0 3,0 c 4,10 7,20 17,20"
+         class="s1" />
+    </g>
+    <g
+       id="umu">
+      <path
+         id="path5656"
+         d="M0,0 20,0"
+         class="s3" />
+    </g>
+    <g
+       id="umz">
+      <path
+         id="path5659"
+         d="m0,0 3,0 c 7,10 12,10 17,10"
+         class="s4" />
+    </g>
+    <g
+       id="zzz">
+      <path
+         id="path5662"
+         d="m0,10 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="zm0">
+      <path
+         id="path5665"
+         d="m0,10 6,0 3,10 11,0"
+         class="s1" />
+    </g>
+    <g
+       id="zm1">
+      <path
+         id="path5668"
+         d="M0,10 6,10 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="zmx">
+      <path
+         id="path5671"
+         d="m6,10 3,10 11,0"
+         class="s1" />
+      <path
+         id="path5673"
+         d="M0,10 6,10 9,0 20,0"
+         class="s1" />
+      <path
+         id="path5675"
+         d="m20,15 -5,5"
+         class="s2" />
+      <path
+         id="path5677"
+         d="M20,10 10,20"
+         class="s2" />
+      <path
+         id="path5679"
+         d="M20,5 8,17"
+         class="s2" />
+      <path
+         id="path5681"
+         d="M20,0 7,13"
+         class="s2" />
+      <path
+         id="path5683"
+         d="M15,0 6.5,8.5"
+         class="s2" />
+      <path
+         id="path5685"
+         d="M10,0 9,1"
+         class="s2" />
+    </g>
+    <g
+       id="zmd">
+      <path
+         id="path5688"
+         d="m0,10 7,0 c 3,5 8,10 13,10"
+         class="s1" />
+    </g>
+    <g
+       id="zmu">
+      <path
+         id="path5691"
+         d="m0,10 7,0 C 10,5 15,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="zmz">
+      <path
+         id="path5694"
+         d="m0,10 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="gap">
+      <path
+         id="path5697"
+         d="m7,-2 -4,0 c -5,0 -5,24 -10,24 l 4,0 C 2,22 2,-2 7,-2 z"
+         class="s5" />
+      <path
+         id="path5699"
+         d="M-7,22 C -2,22 -2,-2 3,-2"
+         class="s1" />
+      <path
+         id="path5701"
+         d="M-3,22 C 2,22 2,-2 7,-2"
+         class="s1" />
+    </g>
+    <g
+       id="0mv-3">
+      <path
+         id="path5704"
+         d="M9,0 20,0 20,20 3,20 z"
+         class="s6" />
+      <path
+         id="path5706"
+         d="M3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path5708"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="1mv-3">
+      <path
+         id="path5711"
+         d="M2.875,0 20,0 20,20 9,20 z"
+         class="s6" />
+      <path
+         id="path5713"
+         d="m3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5715"
+         d="M0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="xmv-3">
+      <path
+         id="path5718"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s6" />
+      <path
+         id="path5720"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path5722"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5724"
+         d="M0,5 3.5,1.5"
+         class="s2" />
+      <path
+         id="path5726"
+         d="M0,10 4.5,5.5"
+         class="s2" />
+      <path
+         id="path5728"
+         d="M0,15 6,9"
+         class="s2" />
+      <path
+         id="path5730"
+         d="M0,20 4,16"
+         class="s2" />
+    </g>
+    <g
+       id="dmv-3">
+      <path
+         id="path5733"
+         d="M9,0 20,0 20,20 3,20 z"
+         class="s6" />
+      <path
+         id="path5735"
+         d="M3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path5737"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="umv-3">
+      <path
+         id="path5740"
+         d="M3,0 20,0 20,20 9,20 z"
+         class="s6" />
+      <path
+         id="path5742"
+         d="m3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5744"
+         d="M0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="zmv-3">
+      <path
+         id="path5747"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s6" />
+      <path
+         id="path5749"
+         d="m6,10 3,10 11,0"
+         class="s1" />
+      <path
+         id="path5751"
+         d="M0,10 6,10 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vvv-3">
+      <path
+         id="path5754"
+         d="M20,20 0,20 0,0 20,0"
+         class="s6" />
+      <path
+         id="path5756"
+         d="m0,20 20,0"
+         class="s1" />
+      <path
+         id="path5758"
+         d="M0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vm0-3">
+      <path
+         id="path5761"
+         d="M0,20 0,0 3,0 9,20"
+         class="s6" />
+      <path
+         id="path5763"
+         d="M0,0 3,0 9,20"
+         class="s1" />
+      <path
+         id="path5765"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vm1-3">
+      <path
+         id="path5768"
+         d="M0,0 0,20 3,20 9,0"
+         class="s6" />
+      <path
+         id="path5770"
+         d="M0,0 20,0"
+         class="s1" />
+      <path
+         id="path5772"
+         d="M0,20 3,20 9,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmx-3">
+      <path
+         id="path5775"
+         d="M0,0 0,20 3,20 6,10 3,0"
+         class="s6" />
+      <path
+         id="path5777"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5779"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path5781"
+         d="m20,15 -5,5"
+         class="s2" />
+      <path
+         id="path5783"
+         d="M20,10 10,20"
+         class="s2" />
+      <path
+         id="path5785"
+         d="M20,5 8,17"
+         class="s2" />
+      <path
+         id="path5787"
+         d="M20,0 7,13"
+         class="s2" />
+      <path
+         id="path5789"
+         d="M15,0 7,8"
+         class="s2" />
+      <path
+         id="path5791"
+         d="M10,0 9,1"
+         class="s2" />
+    </g>
+    <g
+       id="vmd-3">
+      <path
+         id="path5794"
+         d="m0,0 0,20 20,0 C 10,20 7,10 3,0"
+         class="s6" />
+      <path
+         id="path5796"
+         d="m0,0 3,0 c 4,10 7,20 17,20"
+         class="s1" />
+      <path
+         id="path5798"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmu-3">
+      <path
+         id="path5801"
+         d="m0,0 0,20 3,0 C 7,10 10,0 20,0"
+         class="s6" />
+      <path
+         id="path5803"
+         d="m0,20 3,0 C 7,10 10,0 20,0"
+         class="s1" />
+      <path
+         id="path5805"
+         d="M0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmz-3">
+      <path
+         id="path5808"
+         d="M0,0 3,0 C 10,10 15,10 20,10 15,10 10,10 3,20 L 0,20"
+         class="s6" />
+      <path
+         id="path5810"
+         d="m0,0 3,0 c 7,10 12,10 17,10"
+         class="s1" />
+      <path
+         id="path5812"
+         d="m0,20 3,0 C 10,10 15,10 20,10"
+         class="s1" />
+    </g>
+    <g
+       id="vmv-3-3">
+      <path
+         id="path5815"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s6" />
+      <path
+         id="path5817"
+         d="M3,0 0,0 0,20 3,20 6,10 z"
+         class="s6" />
+      <path
+         id="path5819"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5821"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmv-3-4">
+      <path
+         id="path5824"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s7" />
+      <path
+         id="path5826"
+         d="M3,0 0,0 0,20 3,20 6,10 z"
+         class="s6" />
+      <path
+         id="path5828"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5830"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmv-3-5">
+      <path
+         id="path5833"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s8" />
+      <path
+         id="path5835"
+         d="M3,0 0,0 0,20 3,20 6,10 z"
+         class="s6" />
+      <path
+         id="path5837"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5839"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmv-4-3">
+      <path
+         id="path5842"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s6" />
+      <path
+         id="path5844"
+         d="M3,0 0,0 0,20 3,20 6,10 z"
+         class="s7" />
+      <path
+         id="path5846"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5848"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmv-4-4">
+      <path
+         id="path5851"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s7" />
+      <path
+         id="path5853"
+         d="M3,0 0,0 0,20 3,20 6,10 z"
+         class="s7" />
+      <path
+         id="path5855"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5857"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmv-4-5">
+      <path
+         id="path5860"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s8" />
+      <path
+         id="path5862"
+         d="M3,0 0,0 0,20 3,20 6,10 z"
+         class="s7" />
+      <path
+         id="path5864"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5866"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmv-5-3">
+      <path
+         id="path5869"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s6" />
+      <path
+         id="path5871"
+         d="M3,0 0,0 0,20 3,20 6,10 z"
+         class="s8" />
+      <path
+         id="path5873"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5875"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmv-5-4">
+      <path
+         id="path5878"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s7" />
+      <path
+         id="path5880"
+         d="M3,0 0,0 0,20 3,20 6,10 z"
+         class="s8" />
+      <path
+         id="path5882"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5884"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmv-5-5">
+      <path
+         id="path5887"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s8" />
+      <path
+         id="path5889"
+         d="M3,0 0,0 0,20 3,20 6,10 z"
+         class="s8" />
+      <path
+         id="path5891"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5893"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="0mv-4">
+      <path
+         id="path5896"
+         d="M9,0 20,0 20,20 3,20 z"
+         class="s7" />
+      <path
+         id="path5898"
+         d="M3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path5900"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="1mv-4">
+      <path
+         id="path5903"
+         d="M2.875,0 20,0 20,20 9,20 z"
+         class="s7" />
+      <path
+         id="path5905"
+         d="m3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5907"
+         d="M0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="xmv-4">
+      <path
+         id="path5910"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s7" />
+      <path
+         id="path5912"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path5914"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5916"
+         d="M0,5 3.5,1.5"
+         class="s2" />
+      <path
+         id="path5918"
+         d="M0,10 4.5,5.5"
+         class="s2" />
+      <path
+         id="path5920"
+         d="M0,15 6,9"
+         class="s2" />
+      <path
+         id="path5922"
+         d="M0,20 4,16"
+         class="s2" />
+    </g>
+    <g
+       id="dmv-4">
+      <path
+         id="path5925"
+         d="M9,0 20,0 20,20 3,20 z"
+         class="s7" />
+      <path
+         id="path5927"
+         d="M3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path5929"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="umv-4">
+      <path
+         id="path5932"
+         d="M3,0 20,0 20,20 9,20 z"
+         class="s7" />
+      <path
+         id="path5934"
+         d="m3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5936"
+         d="M0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="zmv-4">
+      <path
+         id="path5939"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s7" />
+      <path
+         id="path5941"
+         d="m6,10 3,10 11,0"
+         class="s1" />
+      <path
+         id="path5943"
+         d="M0,10 6,10 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="0mv-5">
+      <path
+         id="path5946"
+         d="M9,0 20,0 20,20 3,20 z"
+         class="s8" />
+      <path
+         id="path5948"
+         d="M3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path5950"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="1mv-5">
+      <path
+         id="path5953"
+         d="M2.875,0 20,0 20,20 9,20 z"
+         class="s8" />
+      <path
+         id="path5955"
+         d="m3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5957"
+         d="M0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="xmv-5">
+      <path
+         id="path5960"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s8" />
+      <path
+         id="path5962"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path5964"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5966"
+         d="M0,5 3.5,1.5"
+         class="s2" />
+      <path
+         id="path5968"
+         d="M0,10 4.5,5.5"
+         class="s2" />
+      <path
+         id="path5970"
+         d="M0,15 6,9"
+         class="s2" />
+      <path
+         id="path5972"
+         d="M0,20 4,16"
+         class="s2" />
+    </g>
+    <g
+       id="dmv-5">
+      <path
+         id="path5975"
+         d="M9,0 20,0 20,20 3,20 z"
+         class="s8" />
+      <path
+         id="path5977"
+         d="M3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path5979"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="umv-5">
+      <path
+         id="path5982"
+         d="M3,0 20,0 20,20 9,20 z"
+         class="s8" />
+      <path
+         id="path5984"
+         d="m3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path5986"
+         d="M0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="zmv-5">
+      <path
+         id="path5989"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s8" />
+      <path
+         id="path5991"
+         d="m6,10 3,10 11,0"
+         class="s1" />
+      <path
+         id="path5993"
+         d="M0,10 6,10 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vvv-4">
+      <path
+         id="path5996"
+         d="M20,20 0,20 0,0 20,0"
+         class="s7" />
+      <path
+         id="path5998"
+         d="m0,20 20,0"
+         class="s1" />
+      <path
+         id="path6000"
+         d="M0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vm0-4">
+      <path
+         id="path6003"
+         d="M0,20 0,0 3,0 9,20"
+         class="s7" />
+      <path
+         id="path6005"
+         d="M0,0 3,0 9,20"
+         class="s1" />
+      <path
+         id="path6007"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vm1-4">
+      <path
+         id="path6010"
+         d="M0,0 0,20 3,20 9,0"
+         class="s7" />
+      <path
+         id="path6012"
+         d="M0,0 20,0"
+         class="s1" />
+      <path
+         id="path6014"
+         d="M0,20 3,20 9,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmx-4">
+      <path
+         id="path6017"
+         d="M0,0 0,20 3,20 6,10 3,0"
+         class="s7" />
+      <path
+         id="path6019"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path6021"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path6023"
+         d="m20,15 -5,5"
+         class="s2" />
+      <path
+         id="path6025"
+         d="M20,10 10,20"
+         class="s2" />
+      <path
+         id="path6027"
+         d="M20,5 8,17"
+         class="s2" />
+      <path
+         id="path6029"
+         d="M20,0 7,13"
+         class="s2" />
+      <path
+         id="path6031"
+         d="M15,0 7,8"
+         class="s2" />
+      <path
+         id="path6033"
+         d="M10,0 9,1"
+         class="s2" />
+    </g>
+    <g
+       id="vmd-4">
+      <path
+         id="path6036"
+         d="m0,0 0,20 20,0 C 10,20 7,10 3,0"
+         class="s7" />
+      <path
+         id="path6038"
+         d="m0,0 3,0 c 4,10 7,20 17,20"
+         class="s1" />
+      <path
+         id="path6040"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmu-4">
+      <path
+         id="path6043"
+         d="m0,0 0,20 3,0 C 7,10 10,0 20,0"
+         class="s7" />
+      <path
+         id="path6045"
+         d="m0,20 3,0 C 7,10 10,0 20,0"
+         class="s1" />
+      <path
+         id="path6047"
+         d="M0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmz-4">
+      <path
+         id="path6050"
+         d="M0,0 3,0 C 10,10 15,10 20,10 15,10 10,10 3,20 L 0,20"
+         class="s7" />
+      <path
+         id="path6052"
+         d="m0,0 3,0 c 7,10 12,10 17,10"
+         class="s1" />
+      <path
+         id="path6054"
+         d="m0,20 3,0 C 10,10 15,10 20,10"
+         class="s1" />
+    </g>
+    <g
+       id="vvv-5">
+      <path
+         id="path6057"
+         d="M20,20 0,20 0,0 20,0"
+         class="s8" />
+      <path
+         id="path6059"
+         d="m0,20 20,0"
+         class="s1" />
+      <path
+         id="path6061"
+         d="M0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vm0-5">
+      <path
+         id="path6064"
+         d="M0,20 0,0 3,0 9,20"
+         class="s8" />
+      <path
+         id="path6066"
+         d="M0,0 3,0 9,20"
+         class="s1" />
+      <path
+         id="path6068"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vm1-5">
+      <path
+         id="path6071"
+         d="M0,0 0,20 3,20 9,0"
+         class="s8" />
+      <path
+         id="path6073"
+         d="M0,0 20,0"
+         class="s1" />
+      <path
+         id="path6075"
+         d="M0,20 3,20 9,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmx-5">
+      <path
+         id="path6078"
+         d="M0,0 0,20 3,20 6,10 3,0"
+         class="s8" />
+      <path
+         id="path6080"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path6082"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path6084"
+         d="m20,15 -5,5"
+         class="s2" />
+      <path
+         id="path6086"
+         d="M20,10 10,20"
+         class="s2" />
+      <path
+         id="path6088"
+         d="M20,5 8,17"
+         class="s2" />
+      <path
+         id="path6090"
+         d="M20,0 7,13"
+         class="s2" />
+      <path
+         id="path6092"
+         d="M15,0 7,8"
+         class="s2" />
+      <path
+         id="path6094"
+         d="M10,0 9,1"
+         class="s2" />
+    </g>
+    <g
+       id="vmd-5">
+      <path
+         id="path6097"
+         d="m0,0 0,20 20,0 C 10,20 7,10 3,0"
+         class="s8" />
+      <path
+         id="path6099"
+         d="m0,0 3,0 c 4,10 7,20 17,20"
+         class="s1" />
+      <path
+         id="path6101"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmu-5">
+      <path
+         id="path6104"
+         d="m0,0 0,20 3,0 C 7,10 10,0 20,0"
+         class="s8" />
+      <path
+         id="path6106"
+         d="m0,20 3,0 C 7,10 10,0 20,0"
+         class="s1" />
+      <path
+         id="path6108"
+         d="M0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmz-5">
+      <path
+         id="path6111"
+         d="M0,0 3,0 C 10,10 15,10 20,10 15,10 10,10 3,20 L 0,20"
+         class="s8" />
+      <path
+         id="path6113"
+         d="m0,0 3,0 c 7,10 12,10 17,10"
+         class="s1" />
+      <path
+         id="path6115"
+         d="m0,20 3,0 C 10,10 15,10 20,10"
+         class="s1" />
+    </g>
+    <g
+       id="Pclk">
+      <path
+         id="path6118"
+         d="M-3,12 0,3 3,12 C 1,11 -1,11 -3,12 z"
+         class="s9" />
+      <path
+         id="path6120"
+         d="M0,20 0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="Nclk">
+      <path
+         id="path6123"
+         d="M-3,8 0,17 3,8 C 1,9 -1,9 -3,8 z"
+         class="s9" />
+      <path
+         id="path6125"
+         d="m0,0 0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vvv-2">
+      <path
+         id="path6128"
+         d="M20,20 0,20 0,0 20,0"
+         class="s10" />
+      <path
+         id="path6130"
+         d="m0,20 20,0"
+         class="s1" />
+      <path
+         id="path6132"
+         d="M0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vm0-2">
+      <path
+         id="path6135"
+         d="M0,20 0,0 3,0 9,20"
+         class="s10" />
+      <path
+         id="path6137"
+         d="M0,0 3,0 9,20"
+         class="s1" />
+      <path
+         id="path6139"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vm1-2">
+      <path
+         id="path6142"
+         d="M0,0 0,20 3,20 9,0"
+         class="s10" />
+      <path
+         id="path6144"
+         d="M0,0 20,0"
+         class="s1" />
+      <path
+         id="path6146"
+         d="M0,20 3,20 9,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmx-2">
+      <path
+         id="path6149"
+         d="M0,0 0,20 3,20 6,10 3,0"
+         class="s10" />
+      <path
+         id="path6151"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path6153"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path6155"
+         d="m20,15 -5,5"
+         class="s2" />
+      <path
+         id="path6157"
+         d="M20,10 10,20"
+         class="s2" />
+      <path
+         id="path6159"
+         d="M20,5 8,17"
+         class="s2" />
+      <path
+         id="path6161"
+         d="M20,0 7,13"
+         class="s2" />
+      <path
+         id="path6163"
+         d="M15,0 7,8"
+         class="s2" />
+      <path
+         id="path6165"
+         d="M10,0 9,1"
+         class="s2" />
+    </g>
+    <g
+       id="vmd-2">
+      <path
+         id="path6168"
+         d="m0,0 0,20 20,0 C 10,20 7,10 3,0"
+         class="s10" />
+      <path
+         id="path6170"
+         d="m0,0 3,0 c 4,10 7,20 17,20"
+         class="s1" />
+      <path
+         id="path6172"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmu-2">
+      <path
+         id="path6175"
+         d="m0,0 0,20 3,0 C 7,10 10,0 20,0"
+         class="s10" />
+      <path
+         id="path6177"
+         d="m0,20 3,0 C 7,10 10,0 20,0"
+         class="s1" />
+      <path
+         id="path6179"
+         d="M0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmz-2">
+      <path
+         id="path6182"
+         d="M0,0 3,0 C 10,10 15,10 20,10 15,10 10,10 3,20 L 0,20"
+         class="s10" />
+      <path
+         id="path6184"
+         d="m0,0 3,0 c 7,10 12,10 17,10"
+         class="s1" />
+      <path
+         id="path6186"
+         d="m0,20 3,0 C 10,10 15,10 20,10"
+         class="s1" />
+    </g>
+    <g
+       id="0mv-2">
+      <path
+         id="path6189"
+         d="M9,0 20,0 20,20 3,20 z"
+         class="s10" />
+      <path
+         id="path6191"
+         d="M3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path6193"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="1mv-2">
+      <path
+         id="path6196"
+         d="M2.875,0 20,0 20,20 9,20 z"
+         class="s10" />
+      <path
+         id="path6198"
+         d="m3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path6200"
+         d="M0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="xmv-2">
+      <path
+         id="path6203"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s10" />
+      <path
+         id="path6205"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path6207"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path6209"
+         d="M0,5 3.5,1.5"
+         class="s2" />
+      <path
+         id="path6211"
+         d="M0,10 4.5,5.5"
+         class="s2" />
+      <path
+         id="path6213"
+         d="M0,15 6,9"
+         class="s2" />
+      <path
+         id="path6215"
+         d="M0,20 4,16"
+         class="s2" />
+    </g>
+    <g
+       id="dmv-2">
+      <path
+         id="path6218"
+         d="M9,0 20,0 20,20 3,20 z"
+         class="s10" />
+      <path
+         id="path6220"
+         d="M3,20 9,0 20,0"
+         class="s1" />
+      <path
+         id="path6222"
+         d="m0,20 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="umv-2">
+      <path
+         id="path6225"
+         d="M3,0 20,0 20,20 9,20 z"
+         class="s10" />
+      <path
+         id="path6227"
+         d="m3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path6229"
+         d="M0,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="zmv-2">
+      <path
+         id="path6232"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s10" />
+      <path
+         id="path6234"
+         d="m6,10 3,10 11,0"
+         class="s1" />
+      <path
+         id="path6236"
+         d="M0,10 6,10 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmv-3-2">
+      <path
+         id="path6239"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s10" />
+      <path
+         id="path6241"
+         d="M3,0 0,0 0,20 3,20 6,10 z"
+         class="s6" />
+      <path
+         id="path6243"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path6245"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmv-4-2">
+      <path
+         id="path6248"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s10" />
+      <path
+         id="path6250"
+         d="M3,0 0,0 0,20 3,20 6,10 z"
+         class="s7" />
+      <path
+         id="path6252"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path6254"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmv-5-2">
+      <path
+         id="path6257"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s10" />
+      <path
+         id="path6259"
+         d="M3,0 0,0 0,20 3,20 6,10 z"
+         class="s8" />
+      <path
+         id="path6261"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path6263"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmv-2-3">
+      <path
+         id="path6266"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s6" />
+      <path
+         id="path6268"
+         d="M3,0 0,0 0,20 3,20 6,10 z"
+         class="s10" />
+      <path
+         id="path6270"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path6272"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmv-2-4">
+      <path
+         id="path6275"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s7" />
+      <path
+         id="path6277"
+         d="M3,0 0,0 0,20 3,20 6,10 z"
+         class="s10" />
+      <path
+         id="path6279"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path6281"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmv-2-5">
+      <path
+         id="path6284"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s8" />
+      <path
+         id="path6286"
+         d="M3,0 0,0 0,20 3,20 6,10 z"
+         class="s10" />
+      <path
+         id="path6288"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path6290"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="vmv-2-2">
+      <path
+         id="path6293"
+         d="M9,0 20,0 20,20 9,20 6,10 z"
+         class="s10" />
+      <path
+         id="path6295"
+         d="M3,0 0,0 0,20 3,20 6,10 z"
+         class="s10" />
+      <path
+         id="path6297"
+         d="m0,0 3,0 6,20 11,0"
+         class="s1" />
+      <path
+         id="path6299"
+         d="M0,20 3,20 9,0 20,0"
+         class="s1" />
+    </g>
+    <g
+       id="arrow0">
+      <path
+         id="path6302"
+         d="m-12,-3 9,3 -9,3 c 1,-2 1,-4 0,-6 z"
+         class="s11" />
+      <path
+         id="path6304"
+         d="M0,0 -15,0"
+         class="s12" />
+    </g>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="15"
+       viewBox="0 -4 11 8"
+       markerUnits="strokeWidth"
+       markerWidth="10"
+       markerHeight="7"
+       style="fill: rgb(0, 65, 196);"
+       id="arrowhead">
+      <path
+         id="path6307"
+         d="M0 -4 11 0 0 4z" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="-15"
+       viewBox="-11 -4 11 8"
+       markerUnits="strokeWidth"
+       markerWidth="10"
+       markerHeight="7"
+       style="fill: rgb(0, 65, 196);"
+       id="arrowtail">
+      <path
+         id="path6310"
+         d="M0 -4 -11 0 0 4z" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="522.45083"
+     inkscape:cy="350.59317"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="background"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7847"
+       width="886.91394"
+       height="570.73621"
+       x="53.538086"
+       y="101.63747"
+       rx="0"
+       ry="1.2008619"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <g
+       id="layer3"
+       inkscape:label="background"
+       style="display:none"
+       transform="translate(-8.7806787,102.61925)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect15152"
+         width="987.9292"
+         height="456.58896"
+         x="18.182747"
+         y="16.784649"
+         rx="18.407555"
+         ry="22.584103"
+         inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-design-to-bitstream-1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="rect14521"
+       d="m 320.18664,571.9796 0,243.14202 -221.355276,0 0,-294.40932 171.057686,0 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(73.116527,466.55148)"
+       style="display:none"
+       inkscape:label="background"
+       id="layer2">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         ry="0"
+         rx="0"
+         y="58.076492"
+         x="-114.28571"
+         height="555.71423"
+         width="850.00006"
+         id="rect5070"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g5345"
+       transform="translate(79.192898,636.56643)"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(-147.48227,-337.39095)"
+         id="g5063">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4827-6"
+           d="m 615.04499,375.63529 -30.217,33.92503 0,-67.85004 30.217,33.92501 z"
+           style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-design-to-bitstream-1.png" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4177-6"
+           d="m 593.69549,391.68269 0,-30.71429 -226.13928,0 2e-5,30.71429 z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           sodipodi:nodetypes="ccccc"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-design-to-bitstream-1.png" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:36.15534592px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="731.77484"
+       y="659.82159"
+       id="text4875-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"><tspan
+         sodipodi:role="line"
+         x="731.77484"
+         y="659.82159"
+         id="tspan4879-8"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000">Bitstream (FPGA)</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       sodipodi:linespacing="125%"
+       id="text15121"
+       y="696.49249"
+       x="626.31891"
+       style="font-style:normal;font-weight:normal;font-size:26.82596779px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="696.49249"
+         x="626.31891"
+         id="tspan15123"
+         sodipodi:role="line">0110111100101</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       sodipodi:linespacing="125%"
+       id="text15125"
+       y="689.12158"
+       x="849.43854"
+       style="font-style:normal;font-weight:normal;font-size:54.19212723px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="689.12158"
+         x="849.43854"
+         id="tspan15127"
+         sodipodi:role="line">...</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       sodipodi:linespacing="125%"
+       id="text15125-7"
+       y="689.12158"
+       x="570.15283"
+       style="font-style:normal;font-weight:normal;font-size:54.19212723px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="689.12158"
+         x="570.15283"
+         id="tspan15127-1"
+         sodipodi:role="line">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:36.15534592px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="717.48914"
+       y="469.82162"
+       id="text4875-2-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"><tspan
+         sodipodi:role="line"
+         x="717.48914"
+         y="469.82162"
+         id="tspan4879-8-2"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000">Simulación</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:36.15534592px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="736.06055"
+       y="805.79333"
+       id="text4875-2-4-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"><tspan
+         sodipodi:role="line"
+         x="736.06055"
+         y="805.79333"
+         id="tspan4879-8-2-4"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000">Fabricación chips</tspan></text>
+    <path
+       style="stroke:#888888;stroke-width:0.5;stroke-dasharray:1, 3"
+       d="m 586.40421,483.43843 0,90"
+       id="gmark_0_0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="stroke:#888888;stroke-width:0.5;stroke-dasharray:1, 3"
+       d="m 626.40421,483.43843 0,90"
+       id="gmark_1_0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="stroke:#888888;stroke-width:0.5;stroke-dasharray:1, 3"
+       d="m 666.40421,483.43843 0,90"
+       id="gmark_2_0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="stroke:#888888;stroke-width:0.5;stroke-dasharray:1, 3"
+       d="m 706.40421,483.43843 0,90"
+       id="gmark_3_0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="stroke:#888888;stroke-width:0.5;stroke-dasharray:1, 3"
+       d="m 746.40421,483.43843 0,90"
+       id="gmark_4_0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="stroke:#888888;stroke-width:0.5;stroke-dasharray:1, 3"
+       d="m 786.40421,483.43843 0,90"
+       id="gmark_5_0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="stroke:#888888;stroke-width:0.5;stroke-dasharray:1, 3"
+       d="m 826.40421,483.43843 0,90"
+       id="gmark_6_0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="stroke:#888888;stroke-width:0.5;stroke-dasharray:1, 3"
+       d="m 866.40421,483.43843 0,90"
+       id="gmark_7_0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text6324"
+       xml:space="preserve"
+       class="info"
+       y="503.43845"
+       x="576.40424"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:Helvetica;text-align:center;text-anchor:end;fill:#0041c4;fill-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan6326">clk</tspan></text>
+    <use
+       style="stroke:#008000"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#Pclk"
+       id="use6329"
+       transform="translate(586.40421,488.43843)"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       style="stroke:#008000"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#nclk"
+       transform="translate(606.40421,488.43843)"
+       id="use6331"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       style="stroke:#008000"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#Pclk"
+       transform="translate(626.40421,488.43843)"
+       id="use6333"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       style="stroke:#008000"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#nclk"
+       transform="translate(646.40421,488.43843)"
+       id="use6335"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       style="stroke:#008000"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#Pclk"
+       transform="translate(666.40421,488.43843)"
+       id="use6337"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       style="stroke:#008000"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#nclk"
+       transform="translate(686.40421,488.43843)"
+       id="use6339"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       style="stroke:#008000"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#Pclk"
+       transform="translate(706.40421,488.43843)"
+       id="use6341"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       style="stroke:#008000"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#nclk"
+       transform="translate(726.40421,488.43843)"
+       id="use6343"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       style="stroke:#008000"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#Pclk"
+       transform="translate(746.40421,488.43843)"
+       id="use6345"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       style="stroke:#008000"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#nclk"
+       transform="translate(766.40421,488.43843)"
+       id="use6347"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       style="stroke:#008000"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#Pclk"
+       transform="translate(786.40421,488.43843)"
+       id="use6349"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       style="stroke:#008000"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#nclk"
+       transform="translate(806.40421,488.43843)"
+       id="use6351"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       style="stroke:#008000"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#Pclk"
+       transform="translate(826.40421,488.43843)"
+       id="use6353"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       style="stroke:#008000;fill:#ff00ff"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#nclk"
+       transform="translate(846.40421,488.43843)"
+       id="use6355"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text6358"
+       xml:space="preserve"
+       class="info"
+       y="533.43842"
+       x="576.40424"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:Helvetica;text-align:center;text-anchor:end;fill:#0041c4;fill-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan6360">bus</tspan></text>
+    <g
+       id="wavelane_draw_1_0"
+       transform="translate(586.40421,518.43843)"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <use
+         id="use6363"
+         xlink:href="#xxx"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use6365"
+         transform="translate(20,0)"
+         xlink:href="#xxx"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use6367"
+         transform="translate(40,0)"
+         xlink:href="#xxx"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use6369"
+         transform="translate(60,0)"
+         xlink:href="#xxx"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use6371"
+         transform="translate(80,0)"
+         xlink:href="#xmv-2"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use6373"
+         transform="translate(100,0)"
+         xlink:href="#vvv-2"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use6375"
+         transform="translate(120,0)"
+         xlink:href="#vmv-2-2"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use6377"
+         transform="translate(140,0)"
+         xlink:href="#vvv-2"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use6379"
+         transform="translate(160,0)"
+         xlink:href="#vvv-2"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use6381"
+         transform="translate(180,0)"
+         xlink:href="#vvv-2"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use6383"
+         transform="translate(200,0)"
+         xlink:href="#vmv-2-2"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use6385"
+         transform="translate(220,0)"
+         xlink:href="#vvv-2"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use6387"
+         transform="translate(240,0)"
+         xlink:href="#vmx-2"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         id="use6389"
+         transform="translate(260,0)"
+         xlink:href="#xxx"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <text
+         id="text6391"
+         xml:space="preserve"
+         y="15"
+         x="106"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:Helvetica;text-align:center;text-anchor:middle;fill-opacity:1"><tspan
+           id="tspan6393">0x55</tspan></text>
+      <text
+         id="text6395"
+         xml:space="preserve"
+         y="15"
+         x="166"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:Helvetica;text-align:center;text-anchor:middle;fill-opacity:1"><tspan
+           id="tspan6397">0x23</tspan></text>
+      <text
+         id="text6399"
+         xml:space="preserve"
+         y="15"
+         x="226"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:Helvetica;text-align:center;text-anchor:middle;fill-opacity:1"><tspan
+           id="tspan6401">0xFA</tspan></text>
+    </g>
+    <text
+       id="text6404"
+       xml:space="preserve"
+       class="info"
+       y="563.43842"
+       x="576.40424"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:Helvetica;text-align:center;text-anchor:end;fill:#0041c4;fill-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan6406">wire</tspan></text>
+    <g
+       id="wavelane_draw_2_0"
+       transform="translate(586.40421,548.43843)"
+       style="fill:#008000"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <use
+         id="use6409"
+         xlink:href="#000"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#008000" />
+      <use
+         id="use6411"
+         transform="translate(20,0)"
+         xlink:href="#000"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#008000" />
+      <use
+         id="use6413"
+         transform="translate(40,0)"
+         xlink:href="#000"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#008000" />
+      <use
+         id="use6415"
+         transform="translate(60,0)"
+         xlink:href="#000"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#008000" />
+      <use
+         id="use6417"
+         transform="translate(80,0)"
+         xlink:href="#0m1"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#008000" />
+      <use
+         id="use6419"
+         transform="translate(100,0)"
+         xlink:href="#111"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#008000" />
+      <use
+         id="use6421"
+         transform="translate(120,0)"
+         xlink:href="#111"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#008000" />
+      <use
+         id="use6423"
+         transform="translate(140,0)"
+         xlink:href="#111"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#008000" />
+      <use
+         id="use6425"
+         transform="translate(160,0)"
+         xlink:href="#111"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#008000" />
+      <use
+         id="use6427"
+         transform="translate(180,0)"
+         xlink:href="#111"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#008000" />
+      <use
+         id="use6429"
+         transform="translate(200,0)"
+         xlink:href="#1m0"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#008000" />
+      <use
+         id="use6431"
+         transform="translate(220,0)"
+         xlink:href="#000"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#008000" />
+      <use
+         id="use6433"
+         transform="translate(240,0)"
+         xlink:href="#000"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#008000" />
+      <use
+         id="use6435"
+         transform="translate(260,0)"
+         xlink:href="#000"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         style="fill:#008000" />
+    </g>
+    <g
+       transform="translate(294.47012,182.36221)"
+       id="wavegap_0_0" />
+    <g
+       transform="translate(294.47012,212.36221)"
+       id="wavegap_1_0" />
+    <g
+       transform="translate(294.47012,242.36221)"
+       id="wavegap_2_0" />
+    <image
+       y="832.23944"
+       x="606.48444"
+       id="image7600"
+       xlink:href="data:image/png;base64,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
++nr4uQAAAABJRU5ErkJggg==
+"
+       preserveAspectRatio="none"
+       height="125.71429"
+       width="130.85165"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5345-9"
+       transform="translate(79.1929,496.56643)"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(-147.48227,-337.39095)"
+         id="g5063-6">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4827-6-6"
+           d="m 615.04499,375.63529 -30.217,33.92503 0,-67.85004 30.217,33.92501 z"
+           style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-design-to-bitstream-1.png" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4177-6-5"
+           d="m 548.27052,391.68269 45.42497,0 0,-30.71429 -56.03159,0 -127.94297,147.3502 38.89087,0 z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           sodipodi:nodetypes="ccccccc"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-design-to-bitstream-1.png" />
+      </g>
+    </g>
+    <g
+       id="g5345-9-3"
+       transform="matrix(1,0,0,-1,79.1929,855.66116)"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(-147.48227,-337.39095)"
+         id="g5063-6-2">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4827-6-6-0"
+           d="m 615.04499,375.63529 -30.217,33.92503 0,-67.85004 30.217,33.92501 z"
+           style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-design-to-bitstream-1.png" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4177-6-5-1"
+           d="m 548.27052,391.68269 45.42497,0 0,-30.71429 -56.03159,0 -127.94297,147.3502 38.89087,0 z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           sodipodi:nodetypes="ccccccc"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-design-to-bitstream-1.png" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.15534592px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="193.20341"
+       y="492.67877"
+       id="text4875-2-4-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"><tspan
+         sodipodi:role="line"
+         x="193.20341"
+         y="492.67877"
+         id="tspan4879-8-2-5"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#000000">Fichero HDL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.63027573px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="114.35751"
+       y="672.42896"
+       id="text7669"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan7671"
+         x="114.35751"
+         y="672.42896" /><tspan
+         sodipodi:role="line"
+         x="114.35751"
+         y="680.7168"
+         id="tspan7673">reg [DW-1: 0] alu_out;</tspan><tspan
+         sodipodi:role="line"
+         x="114.35751"
+         y="689.00464"
+         id="tspan7675">reg flag_z;</tspan><tspan
+         sodipodi:role="line"
+         x="114.35751"
+         y="697.29248"
+         id="tspan7679" /><tspan
+         sodipodi:role="line"
+         x="114.35751"
+         y="705.58032"
+         id="tspan7681">always @(*) begin</tspan><tspan
+         sodipodi:role="line"
+         x="114.35751"
+         y="713.86816"
+         id="tspan7685" /><tspan
+         sodipodi:role="line"
+         x="114.35751"
+         y="722.15601"
+         id="tspan7687">  if (alu_op2)</tspan><tspan
+         sodipodi:role="line"
+         x="114.35751"
+         y="730.44385"
+         id="tspan7689">    alu_out = alu_in;</tspan><tspan
+         sodipodi:role="line"
+         x="114.35751"
+         y="738.73169"
+         id="tspan7693" /><tspan
+         sodipodi:role="line"
+         x="114.35751"
+         y="747.01953"
+         id="tspan7695">  else if (alu_clr)</tspan><tspan
+         sodipodi:role="line"
+         x="114.35751"
+         y="755.30737"
+         id="tspan7697">    alu_out = 0;</tspan><tspan
+         sodipodi:role="line"
+         x="114.35751"
+         y="763.59528"
+         id="tspan7699" /><tspan
+         sodipodi:role="line"
+         x="114.35751"
+         y="771.88312"
+         id="tspan7701">  //-- Suma de operador 1 + operador 2</tspan><tspan
+         sodipodi:role="line"
+         x="114.35751"
+         y="780.17096"
+         id="tspan7703">  else if (alu_add)</tspan><tspan
+         sodipodi:role="line"
+         x="114.35751"
+         y="788.4588"
+         id="tspan7705">    alu_out = reg_a + alu_in;</tspan><tspan
+         sodipodi:role="line"
+         x="114.35751"
+         y="796.74664"
+         id="tspan7707" /><tspan
+         sodipodi:role="line"
+         x="114.35751"
+         y="805.03448"
+         id="tspan7721">  else if (alu_dec)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63904238px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="111.84696"
+       y="532.88092"
+       id="text7723"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/fpgawars.github.io/images/fpga-hdl-1-background.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan7725"
+         x="111.84696"
+         y="532.88092" /><tspan
+         sodipodi:role="line"
+         x="111.84696"
+         y="542.42975"
+         id="tspan7727">module simplez  #(</tspan><tspan
+         sodipodi:role="line"
+         x="111.84696"
+         y="551.97852"
+         id="tspan7729">           parameter BAUD = `B115200,        </tspan><tspan
+         sodipodi:role="line"
+         x="111.84696"
+         y="561.52734"
+         id="tspan7731">           parameter WAIT_DELAY = `T_200ms,  </tspan><tspan
+         sodipodi:role="line"
+         x="111.84696"
+         y="571.07611"
+         id="tspan7733">           parameter ROMFILE = &quot;prog.list&quot;,  </tspan><tspan
+         sodipodi:role="line"
+         x="111.84696"
+         y="580.62494"
+         id="tspan7735">           parameter DEBUG_LEDS = 0          </tspan><tspan
+         sodipodi:role="line"
+         x="111.84696"
+         y="590.17377"
+         id="tspan7737">)(</tspan><tspan
+         sodipodi:role="line"
+         x="111.84696"
+         y="599.72253"
+         id="tspan7739">           input wire clk,          </tspan><tspan
+         sodipodi:role="line"
+         x="111.84696"
+         y="609.27136"
+         id="tspan7741">           input wire rstn_ini,     </tspan><tspan
+         sodipodi:role="line"
+         x="111.84696"
+         y="618.82013"
+         id="tspan7743">           output wire [3:0] leds,  </tspan><tspan
+         sodipodi:role="line"
+         x="111.84696"
+         y="628.36896"
+         id="tspan7745">           output wire stop,        </tspan><tspan
+         sodipodi:role="line"
+         x="111.84696"
+         y="637.91772"
+         id="tspan7747">           output wire tx,          </tspan><tspan
+         sodipodi:role="line"
+         x="111.84696"
+         y="647.46655"
+         id="tspan7749">           input wire rx </tspan><tspan
+         sodipodi:role="line"
+         x="111.84696"
+         y="657.01538"
+         id="tspan7751">);</tspan></text>
+  </g>
+  <style
+     id="style5387"
+     type="text/css">text{font-size:11pt;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;fill-opacity:1;font-family:Helvetica}.muted{fill:#aaa}.warning{fill:#f6b900}.error{fill:#f60000}.info{fill:#0041c4}.success{fill:#00ab00}.h1{font-size:33pt;font-weight:bold}.h2{font-size:27pt;font-weight:bold}.h3{font-size:20pt;font-weight:bold}.h4{font-size:14pt;font-weight:bold}.h5{font-size:11pt;font-weight:bold}.h6{font-size:8pt;font-weight:bold}.s6{color:#000;display:inline;enable-background:accumulate;fill-opacity:1;fill-rule:nonzero;fill:#ffffb4;marker:none;overflow:visible;stroke-width:1px;stroke:none;visibility:visible}.s12{fill:none;stroke-dasharray:none;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:1;stroke:#0041c4}.s9{fill-opacity:1;fill:#000;stroke:none}.s1{fill:none;stroke-dasharray:none;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:1;stroke:#000}.s10{color:#000;display:inline;enable-background:accumulate;fill-opacity:1;fill-rule:nonzero;fill:#fff;marker:none;overflow:visible;stroke-width:1px;stroke:none;visibility:visible}.s2{fill:none;stroke-dasharray:none;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:0.5;stroke:#000}.s7{color:#000;display:inline;enable-background:accumulate;fill-opacity:1;fill-rule:nonzero;fill:#ffe0b9;marker:none;overflow:visible;stroke-width:1px;stroke:none;visibility:visible}.s8{color:#000;display:inline;enable-background:accumulate;fill-opacity:1;fill-rule:nonzero;fill:#b9e0ff;marker:none;overflow:visible;stroke-width:1px;stroke:none;visibility:visible}.s5{fill:#fff;stroke:none}.s11{fill-opacity:1;fill:#0041c4;stroke:none}.s3{color:#000;display:inline;enable-background:accumulate;fill:none;marker:none;overflow:visible;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:1;stroke:#000;visibility:visible}.s4{color:#000;display:inline;fill:none;marker:none;overflow:visible;stroke-dasharray:none;stroke-dashoffset:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-width:1;stroke:#000;visibility:visible}</style>
+</svg>
