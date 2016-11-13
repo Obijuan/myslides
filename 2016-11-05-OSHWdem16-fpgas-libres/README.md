@@ -2,4 +2,4 @@
 
 # MÁS INFORMACIÓN
 
-[MÁS INFORMACIÓN](https://github.com/Obijuan/myslides/wiki/2016_10_24:-El-Evento-2016,-UC3M.-FPGAs-libres)
+[MÁS INFORMACIÓN](https://github.com/Obijuan/myslides/wiki/2016_11_05:-OSHWdem-2016,-Coru%C3%B1a.-FPGAs-libres)
