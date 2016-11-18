@@ -5,7 +5,7 @@
       "x": 0,
       "y": 0
     },
-    "zoom": 1.0000000537609184
+    "zoom": 1
   },
   "board": "icezum",
   "graph": {
@@ -91,8 +91,8 @@
         "data": {
           "label": "Buzzer1",
           "pin": {
-            "name": "D13",
-            "value": "144"
+            "name": "D12",
+            "value": "143"
           }
         },
         "position": {
