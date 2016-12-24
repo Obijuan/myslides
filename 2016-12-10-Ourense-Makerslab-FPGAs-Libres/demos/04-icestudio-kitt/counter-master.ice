@@ -5,7 +5,7 @@
       "x": 163.64439877698965,
       "y": 121.96947746323713
     },
-    "zoom": 0.8287810134107858
+    "zoom": 0.828780993886805
   },
   "board": "icezum",
   "graph": {
@@ -109,15 +109,9 @@
         }
       },
       {
-        "id": "5d533d1c-8175-40a4-91c1-7b05c9beefe1",
-        "type": "basic.input",
-        "data": {
-          "label": "rst",
-          "pin": {
-            "name": "SW1",
-            "value": "10"
-          }
-        },
+        "id": "a19ce2cc-ef59-48bf-93de-61170adf2ea9",
+        "type": "bit.0",
+        "data": {},
         "position": {
           "x": 16,
           "y": 168
@@ -177,8 +171,8 @@
       },
       {
         "source": {
-          "block": "5d533d1c-8175-40a4-91c1-7b05c9beefe1",
-          "port": "out"
+          "block": "a19ce2cc-ef59-48bf-93de-61170adf2ea9",
+          "port": "19c8f68d-5022-487f-9ab0-f0a3cd58bead"
         },
         "target": {
           "block": "d057b192-853d-403f-a089-5a8fde9301da",
@@ -187,5 +181,61 @@
       }
     ]
   },
-  "deps": {}
+  "deps": {
+    "bit.0": {
+      "graph": {
+        "blocks": [
+          {
+            "id": "b959fb96-ac67-4aea-90b3-ed35a4c17bf5",
+            "type": "basic.code",
+            "data": {
+              "code": "// Bit 0\n\nassign v = 1'b0;",
+              "ports": {
+                "in": [],
+                "out": [
+                  "v"
+                ]
+              }
+            },
+            "position": {
+              "x": 96,
+              "y": 96
+            }
+          },
+          {
+            "id": "19c8f68d-5022-487f-9ab0-f0a3cd58bead",
+            "type": "basic.output",
+            "data": {
+              "label": ""
+            },
+            "position": {
+              "x": 608,
+              "y": 192
+            }
+          }
+        ],
+        "wires": [
+          {
+            "source": {
+              "block": "b959fb96-ac67-4aea-90b3-ed35a4c17bf5",
+              "port": "v"
+            },
+            "target": {
+              "block": "19c8f68d-5022-487f-9ab0-f0a3cd58bead",
+              "port": "in"
+            }
+          }
+        ]
+      },
+      "deps": {},
+      "image": "resources/images/0.svg",
+      "state": {
+        "pan": {
+          "x": 0,
+          "y": 0
+        },
+        "zoom": 1
+      }
+    }
+  }
 }

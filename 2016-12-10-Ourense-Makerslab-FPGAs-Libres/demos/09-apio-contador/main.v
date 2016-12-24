@@ -17,7 +17,7 @@ module top(input wire CLK,
            output wire LED7);
 
 //-- Bits del prescaler
-parameter N = 19;
+parameter N = 22;
 
 //-- Registro para almacenar la cuenta
 reg [N-1 + 8:0] counter = 0;
