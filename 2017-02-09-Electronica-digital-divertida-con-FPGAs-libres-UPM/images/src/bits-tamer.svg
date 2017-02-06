@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="bits-tamer.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="359.34415"
+     inkscape:cy="516.97126"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1215"
+     inkscape:window-height="1000"
+     inkscape:window-x="705"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4260"
+       width="478.57141"
+       height="354.28571"
+       x="131.42857"
+       y="112.36221"
+       ry="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#0000ff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 276.78104,395.34337 14.09857,-10.94126 11.41048,2.60748 -9.11738,39.39392 -8.87483,-2.02804 7.01172,-31.44474 -10.41811,6.38687 z"
+       id="path4136"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 289.59859,423.9801 7.12263,9.53636 -5.97382,7.21043 2.06786,1.86075"
+       id="path4138"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 288.13441,424.21269 -4.13573,9.53636 -9.42026,1.86076 0.68929,3.02373"
+       id="path4140"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4161"
+       cx="281.4115"
+       cy="210.15912"
+       rx="33.961819"
+       ry="33.978954"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 284.08264,242.61091 -0.76318,74.83006 -42.73847,87.0472"
+       id="path4163"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 284.08264,318.20454 30.52748,83.22934"
+       id="path4165"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 239.57329,311.15806 46.60331,-28.17641 63.76539,-13.5957"
+       id="path4167"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#d45500;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4169"
+       cx="381.53937"
+       cy="271.04468"
+       rx="33.740238"
+       ry="54.369484"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 335.42614,406.92111 c 0,0 -0.77825,-6.47403 3.31121,-6.47403 4.08947,0 6.20015,5.92834 6.20015,5.92834 0,0 5.54056,-5.7966 9.23427,-3.95222 3.69371,1.84437 1.05535,7.37748 1.05535,7.37748 0,0 7.38741,1.05393 5.54056,5.53313 -1.84686,4.47918 -7.12358,2.37133 -7.12358,2.37133 0,0 0,5.53312 -2.9022,5.53312 -2.9022,0 -7.12358,-5.00616 -7.12358,-5.00616 0,0 -2.63836,6.85053 -6.85974,5.00616 -4.22138,-1.84437 -1.05534,-8.43142 -1.05534,-8.43142 0,0 -6.33208,0.79044 -6.06824,-5.00616 0.26384,-5.7966 5.79114,-2.87957 5.79114,-2.87957 z"
+       id="path4171"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscscscscscsc"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 347.26604,407.89937 c 0,0 3.33636,-109.67153 25.92708,-116.6991 22.59072,-7.02757 33.15345,11.04625 33.15345,11.04625"
+       id="path4173"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czc"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <ellipse
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4175"
+       cx="444.94354"
+       cy="351.47699"
+       rx="12.412058"
+       ry="17.007698"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4177"
+       cx="445.21338"
+       cy="352.2869"
+       rx="9.4439573"
+       ry="12.418319"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 455.51188,365.29742 8.36465,5.9392 1.34913,10.25861 4.58707,-0.80989"
+       id="path4179"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 443.93339,369.02463 c 0,0 7.55517,4.31941 7.55517,5.9392 0,1.61978 2.42845,11.60843 2.42845,11.60843 l 4.31723,-1.07986"
+       id="path4181"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 259.09897,161.44953 -1.52637,4.58144 58.94549,21.22098 2.28956,-6.87215 -14.50055,-6.10858 11.06621,-27.48859 -24.42198,-8.0175 -11.44781,28.25216 z"
+       id="path4183"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <ellipse
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4175-3"
+       cx="640.70654"
+       cy="106.3016"
+       rx="11.649918"
+       ry="17.167938"
+       transform="matrix(0.88157243,0.47204878,-0.47204878,0.88157243,0,0)"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4177-6"
+       cx="640.95984"
+       cy="107.11913"
+       rx="8.864068"
+       ry="12.535319"
+       transform="matrix(0.88157243,0.47204878,-0.47204878,0.88157243,0,0)"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 520.87438,411.28641 4.09124,8.99123 -3.77187,9.72666 4.18144,1.31166"
+       id="path4179-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 512.40792,412.05519 c 0,0 -1.09143,8.25259 -2.58452,8.91897 -1.49308,0.66639 -9.77147,6.85717 -9.77147,6.85717 l 2.6469,3.25607"
+       id="path4181-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:#0000ff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 561.06675,386.05766 14.09857,-10.94126 11.41048,2.60748 -9.11738,39.39392 -8.87483,-2.02804 7.01172,-31.44474 -10.41811,6.38687 z"
+       id="path4136-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 573.8843,414.69439 7.12263,9.53636 -5.97382,7.21043 2.06786,1.86075"
+       id="path4138-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 572.42012,414.92698 -4.13573,9.53636 -9.42026,1.86076 0.68929,3.02373"
+       id="path4140-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:#0000ff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 200.73655,399.34357 10.18075,-14.65719 11.66803,-0.92467 3.0824,40.31757 -9.07515,0.71919 -2.71413,-32.10248 -8.03095,9.21048 z"
+       id="path4136-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 221.53239,422.8358 9.64884,6.9695 2.34908,8.30995 4.85117,-1.70005"
+       id="path4138-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 220.2048,423.49566 -1.09416,10.33679 -8.4325,4.59311 1.56211,2.67916"
+       id="path4140-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#803300;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 233.86729,287.65807 c 0,0 1.56161,-32.79056 -19.47389,-47.73459 -24.84156,-17.64793 -41.03118,10.00616 -46.53626,63.8673 -3.30756,32.36082 11.42857,90 11.42857,90"
+       id="path4255"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:#803300;fill-rule:evenodd;stroke:#803300;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 235.44657,314.21141 c 1.0793,0 9.42031,-4.22381 9.42031,-4.22381 l -6.02352,-26.0121 -10.68213,1.07986 z"
+       id="path4185"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 409.99999,306.1122 c 0,0 2.5,2.14285 8.92857,10.71428 6.42857,8.57143 10.35715,17.85715 10.35715,17.85715"
+       id="path4257"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM/images/bits-tamer.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+  </g>
+</svg>
