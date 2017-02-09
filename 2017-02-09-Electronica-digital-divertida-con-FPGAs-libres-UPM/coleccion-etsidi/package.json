@@ -1,0 +1,23 @@
+{
+  "name": "ETSIDI",
+  "version": "0.0.1",
+  "description": "ETSIDI Talk (Feb/9/2017)",
+  "keywords": "ETSIDI, collection",
+  "license": "GPL-2.0",
+  "authors" : [
+    {
+      "name": "Jesús Arroyo",
+      "email": "",
+      "url": ""
+    },
+    {
+      "name": "Juan González",
+      "email": "",
+      "url": ""
+    },
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Obijuan/myslides/tree/master/2017-02-09-Electronica-digital-divertida-con-FPGAs-libres-UPM"
+  }
+}
