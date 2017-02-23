@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
+[*] Mon Sep 19 07:15:32 2016
+[*]
+[dumpfile] "/home/obijuan/develop/myslides/2016-09-24-Mini-maker-faire-madrid/demos/contador-8-bits/main_tb.vcd"
+[dumpfile_mtime] "Mon Sep 19 07:15:09 2016"
+[dumpfile_size] 3837
+[savefile] "/home/obijuan/develop/myslides/2016-09-24-Mini-maker-faire-madrid/demos/contador-8-bits/main_tb.gtkw"
+[timestart] 0
+[size] 1000 650
+[pos] 92 0
+*-9.792162 83 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] main_tb.
+[sst_width] 225
+[signals_width] 173
+[sst_expanded] 1
+[sst_vpaned_height] 175
+@28
+main_tb.clk
+@22
+main_tb.leds[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
