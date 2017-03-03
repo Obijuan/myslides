@@ -12,10 +12,10 @@
     "graph": {
       "blocks": [
         {
-          "id": "117574ca-8ff2-4477-9400-941baefaabee",
-          "type": "70c17a5480b46b45fec708393837e5c64e21e1b1",
+          "id": "badb1034-9a78-4c78-8324-46f1e718ee6f",
+          "type": "4feac61e5e85716264d9b378f77f5ab9a1f78b2d",
           "position": {
-            "x": 376,
+            "x": 368,
             "y": 56
           },
           "size": {
@@ -27,7 +27,7 @@
           "id": "b9ded998-4b7e-43d3-95d4-a2a3de9f9c6a",
           "type": "basic.output",
           "data": {
-            "name": "led_externo",
+            "name": "Servo",
             "pins": [
               {
                 "index": "0",
@@ -205,26 +205,6 @@
         },
         {
           "source": {
-            "block": "117574ca-8ff2-4477-9400-941baefaabee",
-            "port": "eac2d6e9-4a62-4aec-8ce8-0e6c54e14d22"
-          },
-          "target": {
-            "block": "b9ded998-4b7e-43d3-95d4-a2a3de9f9c6a",
-            "port": "in"
-          }
-        },
-        {
-          "source": {
-            "block": "f665d913-8196-4526-9699-a3939a476e2c",
-            "port": "ddf2b766-f257-482c-a45f-97f4e9606ce4"
-          },
-          "target": {
-            "block": "117574ca-8ff2-4477-9400-941baefaabee",
-            "port": "e3e07bdb-9bb3-4afb-ace5-bcc99aecef0a"
-          }
-        },
-        {
-          "source": {
             "block": "bf2f0877-a764-4880-8c8e-ea3316ccd1bc",
             "port": "ddf2b766-f257-482c-a45f-97f4e9606ce4"
           },
@@ -278,6 +258,26 @@
             "block": "26ac29ce-7aab-4007-bd84-a34225529708",
             "port": "in"
           }
+        },
+        {
+          "source": {
+            "block": "f665d913-8196-4526-9699-a3939a476e2c",
+            "port": "ddf2b766-f257-482c-a45f-97f4e9606ce4"
+          },
+          "target": {
+            "block": "badb1034-9a78-4c78-8324-46f1e718ee6f",
+            "port": "e3e07bdb-9bb3-4afb-ace5-bcc99aecef0a"
+          }
+        },
+        {
+          "source": {
+            "block": "badb1034-9a78-4c78-8324-46f1e718ee6f",
+            "port": "eac2d6e9-4a62-4aec-8ce8-0e6c54e14d22"
+          },
+          "target": {
+            "block": "b9ded998-4b7e-43d3-95d4-a2a3de9f9c6a",
+            "port": "in"
+          }
         }
       ]
     },
@@ -290,7 +290,7 @@
     }
   },
   "dependencies": {
-    "70c17a5480b46b45fec708393837e5c64e21e1b1": {
+    "4feac61e5e85716264d9b378f77f5ab9a1f78b2d": {
       "package": {
         "name": "ServoBit_180",
         "version": "0.1",
@@ -326,13 +326,18 @@
               "position": {
                 "x": 304,
                 "y": 80
+              },
+              "size": {
+                "width": 384,
+                "height": 256
               }
             },
             {
               "id": "f9f4add8-1ca6-49c0-adae-0d1a45025fc1",
               "type": "basic.input",
               "data": {
-                "name": "clk"
+                "name": "",
+                "clock": true
               },
               "position": {
                 "x": 56,
