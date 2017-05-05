@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="173.05103"
-     inkscape:cy="285.71681"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="445.954"
+     inkscape:cy="153.10527"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
@@ -66,43 +66,24 @@
        height="354.79568"
        x="259.4343"
        y="410.31104"
-       inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/silice-structure-atom.png"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/Nivel-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:86.40475464px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="679.40869"
-       y="628.25507"
+       x="691.53052"
+       y="610.07233"
        id="text4172"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/Nivel-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4174"
-         x="679.40869"
-         y="628.25507"
+         x="691.53052"
+         y="610.07233"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Nivel 1: Átomos</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:73.44915771px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="713.82288"
-       y="507.65289"
-       id="text4172-3"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4174-6"
-         x="713.82288"
-         y="507.65289">Átomo de Silicio</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:73.44915771px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="731.26233"
-       y="727.21088"
-       id="text4172-3-5"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4174-6-3"
-         x="731.26233"
-         y="727.21088">Física, Química</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1631,7 +1612,7 @@ vAAAAABJRU5ErkJggg==
        preserveAspectRatio="none"
        height="295.19363"
        width="256.96429"
-       inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/silice-structure-atom.png"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/Nivel-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
