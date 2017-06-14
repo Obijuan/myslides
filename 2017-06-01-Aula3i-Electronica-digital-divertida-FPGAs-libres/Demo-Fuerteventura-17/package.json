@@ -1,0 +1,23 @@
+{
+  "name": "Demo Malakabot 2017",
+  "version": "0.0.1",
+  "description": "Charla de FPGAs libres en Malakabot (Abril/27/2017)",
+  "keywords": "Malakabot, collection, talk, demo",
+  "license": "GPL-2.0",
+  "authors" : [
+    {
+      "name": "Jesús Arroyo",
+      "email": "",
+      "url": ""
+    },
+    {
+      "name": "Juan González",
+      "email": "",
+      "url": ""
+    },
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
