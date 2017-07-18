@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Robot-linea-negra-algoritmo.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6048"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path6050"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4277"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#0000ff;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4259"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4277-9"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-2-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4277-9-7"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4277-93"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6048-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path6050-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6048-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path6050-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4277-6"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-7-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4277-6-9"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-7-6-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4277-6-9-4"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="336.49903"
+     inkscape:cy="636.39977"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="1048"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9919"
+       width="835.71429"
+       height="432.85715"
+       x="-39.999996"
+       y="178.07649"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 399.87683,386.12815 -71.62362,-131.97791 -73.26764,0 72.06893,132.7492 0,113.74616 71.81218,0.50508 z"
+       id="path5631"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136"
+       width="81.822357"
+       height="237.88478"
+       x="60.106628"
+       y="252.16911"
+       ry="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138"
+       width="23.571428"
+       height="29.285713"
+       x="72.32489"
+       y="305.63776"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-3"
+       width="23.571428"
+       height="29.285713"
+       x="106.25345"
+       y="305.69901"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ffe680;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4155"
+       width="156.42856"
+       height="99.285728"
+       x="24.467735"
+       y="334.20917"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#deaa87;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157"
+       width="18.571428"
+       height="50"
+       x="-2.6751213"
+       y="364.92346"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159"
+       width="8.586297"
+       height="6.8185296"
+       x="16.164993"
+       y="384.49292"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#deaa87;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-6"
+       width="18.571428"
+       height="50"
+       x="-208.6752"
+       y="364.54367"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-7"
+       width="8.586297"
+       height="6.8185296"
+       x="-189.83508"
+       y="384.11313"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="112.67195"
+       y="327.58884"
+       id="text4181"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4183"
+         x="112.67195"
+         y="327.58884">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="77.198387"
+       y="327.76318"
+       id="text4181-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4183-3"
+         x="77.198387"
+         y="327.76318">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.527935"
+       y="530.45996"
+       id="text4222"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4224"
+         x="2.527935"
+         y="530.45996">Robot en línea negra</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="62.778503"
+       y="557.59113"
+       id="text4222-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4224-6"
+         x="62.778503"
+         y="557.59113">Avanzar</tspan></text>
+    <path
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 6.261239,403.41667 0,-25.91136"
+       id="path4244"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-0"
+       width="23.571428"
+       height="29.285713"
+       x="329.73907"
+       y="305.63776"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-3-6"
+       width="23.571428"
+       height="29.285713"
+       x="363.6676"
+       y="305.69901"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ffe680;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4155-2"
+       width="156.42856"
+       height="99.285728"
+       x="281.8819"
+       y="334.20917"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#deaa87;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-61"
+       width="18.571428"
+       height="50"
+       x="254.73904"
+       y="364.92346"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-8"
+       width="8.586297"
+       height="6.8185296"
+       x="273.57916"
+       y="384.49292"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#deaa87;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-6-7"
+       width="18.571428"
+       height="50"
+       x="-466.08936"
+       y="364.54367"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-7-9"
+       width="8.586297"
+       height="6.8185296"
+       x="-447.24924"
+       y="384.11313"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="370.08612"
+       y="327.58884"
+       id="text4181-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4183-0"
+         x="370.08612"
+         y="327.58884">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="334.61255"
+       y="327.76318"
+       id="text4181-5-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4183-3-3"
+         x="334.61255"
+         y="327.76318">1</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6048)"
+       d="m 456.42858,340.93363 c 0,0 4.28571,-23.57143 -10.00001,-40 -14.28571,-16.42857 -32.85714,-13.57143 -32.85714,-13.57143"
+       id="path6040"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="274.91052"
+       y="528.29669"
+       id="text4222-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4224-9"
+         x="274.91052"
+         y="528.29669">Sensor derecho blanco</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="272.86481"
+       y="549.02771"
+       id="text4222-8-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4224-9-3"
+         x="272.86481"
+         y="549.02771">Sensor izquierdo negro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="288.58261"
+       y="575.9942"
+       id="text4222-5-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4224-6-1"
+         x="288.58261"
+         y="575.9942">Girar a la izquierda</tspan></text>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 594.27199,384.55762 71.62362,-131.97791 73.26764,0 -72.06893,132.7492 0,113.74616 -71.81218,0.50508 z"
+       id="path5631-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-0-4"
+       width="23.571428"
+       height="29.285713"
+       x="597.30463"
+       y="306.08752"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-3-6-7"
+       width="23.571428"
+       height="29.285713"
+       x="631.23315"
+       y="306.14877"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ffe680;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4155-2-8"
+       width="156.42856"
+       height="99.285728"
+       x="549.44739"
+       y="334.65894"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#deaa87;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-61-4"
+       width="18.571428"
+       height="50"
+       x="522.30457"
+       y="365.37323"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-8-5"
+       width="8.586297"
+       height="6.8185296"
+       x="541.14465"
+       y="384.94269"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#deaa87;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4157-6-7-0"
+       width="18.571428"
+       height="50"
+       x="-733.65491"
+       y="364.99344"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4159-7-9-3"
+       width="8.586297"
+       height="6.8185296"
+       x="-714.81476"
+       y="384.56293"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="637.65167"
+       y="328.0386"
+       id="text4181-2-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4183-0-1"
+         x="637.65167"
+         y="328.0386">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="602.1781"
+       y="328.21295"
+       id="text4181-5-2-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4183-3-3-6"
+         x="602.1781"
+         y="328.21295">0</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6048-5)"
+       d="m 534.31159,336.28264 c 0,0 -4.28571,-23.57143 10.00001,-40 14.28571,-16.42857 32.85714,-13.57143 32.85714,-13.57143"
+       id="path6040-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-7)"
+       d="m 199.30493,404.89403 0,-25.91136"
+       id="path4244-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-7-6)"
+       d="m 457.51922,401.67974 0,-25.91136"
+       id="path4244-5-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-7-6-7)"
+       d="m 531.36201,402.49393 0,-25.91136"
+       id="path4244-5-3-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="527.28693"
+       y="527.28107"
+       id="text4222-8-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4224-9-5"
+         x="527.28693"
+         y="527.28107">Sensor derecho negro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="525.24121"
+       y="548.01208"
+       id="text4222-8-7-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4224-9-3-7"
+         x="525.24121"
+         y="548.01208">Sensor izquierdo blanco</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540.95905"
+       y="574.97858"
+       id="text4222-5-6-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/myslides/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/wiki/Robot-linea-negra-algoritmo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4224-6-1-4"
+         x="540.95905"
+         y="574.97858">Girar a la derecha</tspan></text>
+  </g>
+</svg>
