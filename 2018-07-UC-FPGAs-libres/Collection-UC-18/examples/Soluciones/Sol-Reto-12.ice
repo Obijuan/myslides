@@ -54,7 +54,7 @@
           "id": "47bad1eb-d761-4084-8d88-e91714b448e4",
           "type": "basic.info",
           "data": {
-            "info": "# Reto 12: Ver el estado del Sensor Infrarrojo en un LED \n\nHacer un circuito digital que lea el sensor de infrarrojos y lo muestre en cualquiera de  \nlos LEDs de la Icezum Alhambra. Conectar el sensor al pin 13 (D13), con la polaridad  \ncorrecta",
+            "info": "# Reto 12: Ver el estado del Sensor Infrarrojo en un LED \n\nHacer un circuito digital que lea el sensor de infrarrojos y lo muestre en cualquiera de  \nlos LEDs de la Icezum Alhambra. Conectar el sensor al pin 13 (D13), con la polaridad  \ncorrecta. Las señales del sensor: Vcc, GND, D0 se conecta a los pines de la alhambra:  \nVcc, GND, D13",
             "readonly": true
           },
           "position": {
