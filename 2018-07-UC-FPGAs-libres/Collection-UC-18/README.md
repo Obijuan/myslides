@@ -67,6 +67,7 @@ Colección del curso de FPGAs libres de la Universidad de Cantabria.
       * Valor_170
       * Valor_255
 * *Varios*
+  * Test
   * *Bombeo*
     * Corazon_Hz
     * Corazon_Seg
@@ -95,6 +96,7 @@ Colección del curso de FPGAs libres de la Universidad de Cantabria.
       * Separador
   * *Motor*
     * *SM-S4303R*
+      * MotorBit-param
       * MotorBit
   * *Pegatinas*
     * *Academia-Jedi*
@@ -145,31 +147,46 @@ Colección del curso de FPGAs libres de la Universidad de Cantabria.
       * Servobit
 
 ## Examples
-* *0-Soluciones-Tutorial-21*
-  * Sol-21-1-bloque
-  * Sol-21-1
-  * Sol-21-2-bloque
-  * Sol-21-2
-  * Sol-21-3-bloque
-  * Sol-21-3
-* *1-Ejemplos*
-  * 01-pegatinas-Rusia-2018
-  * 02-pegatinas-Academia-Jedi
-  * 03-bloques-sin-puertos-1
-  * 04-AND-3-entradas
-  * 05-Detector-2-pines
-  * 06-Detector-2-bloque-test
-  * 07-Detector-2-bus-pines
-  * 08-Detector-2-bus-bloque-test
-  * 09-Corazon-enable-pines
-  * 10-Corazon-enable-test
-  * 11-Corazon-enable-param-pines
-  * 12-Corazon-enable-param-test
-  * 13-Detector-k-pines
-  * 14-Detector-k-test
-* *2-Ejercicios*
-  * Ejercicio-21-1
-  * Ejercicio-21-x
+* *Retos*
+  * Reto-01
+  * Reto-02
+  * Reto-03
+  * Reto-04
+  * Reto-05
+  * Reto-06
+  * Reto-07
+  * Reto-08
+  * Reto-09
+  * Reto-10
+  * Reto-11
+  * Reto-12
+  * Reto-13
+  * Reto-14
+  * Reto-15
+  * Reto-16
+  * Reto-17
+  * Reto-18
+  * Reto-19
+* *Soluciones*
+  * Sol-Reto-01
+  * Sol-Reto-02
+  * Sol-Reto-03
+  * Sol-Reto-04
+  * Sol-Reto-05
+  * Sol-Reto-06
+  * Sol-Reto-07
+  * Sol-Reto-08
+  * Sol-Reto-09
+  * Sol-Reto-10
+  * Sol-Reto-11
+  * Sol-Reto-12
+  * Sol-Reto-13
+  * Sol-Reto-14
+  * Sol-Reto-15
+  * Sol-Reto-16
+  * Sol-Reto-17
+  * Sol-Reto-18
+  * Sol-Reto-19
 
 
 ## Authors
