@@ -28,14 +28,14 @@
           }
         },
         {
-          "id": "de63ccc8-9f94-46b2-9fdb-a36fbf1c7d20",
+          "id": "1df51905-d96e-4278-919b-5e254d4728ae",
           "type": "basic.info",
           "data": {
-            "info": "**comportamiento del robot**\n\n| Sensor izquierdo | Sensor derecho | Rueda derecha | Rueda izquierda |\n|------------------|----------------|---------------|-----------------|\n| NO Pulsado       |  No Pulsado    |   Parada      |  Parada         |\n| NO pulsado       |  Pulsado       |   Parada      |  Adelante       |\n| Pulsado          |  No pulsado    |   Adelante    |  Parada         |\n| Pulsado          |  Pulsado       |   Parada      |  Adelante       |\n",
+            "info": "**comportamiento del robot**\n\n| Sensor izquierdo | Sensor derecho | Rueda derecha | Rueda izquierda |\n|------------------|----------------|---------------|-----------------|\n| Obstáculo        |  Obstáculo     |   Parada      |  Parada         |\n| Obstáculo        |  NO obstáculo  |   Adelante    |  Parada         |\n| NO obstáculo     |  Obstáculo     |   Parada      |  Adelante       |\n| No obstáculo     |  No obstáculo  |   Adelante    |  Adelante       |\n",
             "readonly": true
           },
           "position": {
-            "x": -248,
+            "x": -256,
             "y": 48
           },
           "size": {
