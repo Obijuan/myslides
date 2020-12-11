@@ -1,4 +1,6 @@
 .sconsign.dblite
 *.asc
 *.blif
+ice-build
+
 
