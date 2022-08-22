@@ -12,6 +12,26 @@
     "graph": {
       "blocks": [
         {
+          "id": "b480f66a-7447-4972-8693-207de4afd797",
+          "type": "basic.input",
+          "data": {
+            "name": "Pulsador",
+            "pins": [
+              {
+                "index": "0",
+                "name": "D9",
+                "value": "19"
+              }
+            ],
+            "virtual": false,
+            "clock": false
+          },
+          "position": {
+            "x": 808,
+            "y": -120
+          }
+        },
+        {
           "id": "5d5373b8-ba5e-44d0-80f9-cade2eb4050b",
           "type": "basic.output",
           "data": {
@@ -31,81 +51,22 @@
           }
         },
         {
-          "id": "d6064287-814e-468c-84e7-8efdca29b176",
+          "id": "83d7e040-53fd-4962-804f-65c571a3abbf",
           "type": "basic.output",
           "data": {
-            "name": "LED",
+            "name": "Zumbador",
             "pins": [
               {
                 "index": "0",
-                "name": "D11",
-                "value": "21"
+                "name": "D7",
+                "value": "9"
               }
             ],
             "virtual": false
           },
           "position": {
-            "x": 544,
-            "y": -64
-          }
-        },
-        {
-          "id": "b480f66a-7447-4972-8693-207de4afd797",
-          "type": "basic.input",
-          "data": {
-            "name": "Pulsador",
-            "pins": [
-              {
-                "index": "0",
-                "name": "D9",
-                "value": "19"
-              }
-            ],
-            "virtual": false,
-            "clock": false
-          },
-          "position": {
-            "x": 1176,
-            "y": -40
-          }
-        },
-        {
-          "id": "4877f05a-50ef-4cff-93cc-f549be97cbb6",
-          "type": "basic.input",
-          "data": {
-            "name": "IR",
-            "pins": [
-              {
-                "index": "0",
-                "name": "D6",
-                "value": "10"
-              }
-            ],
-            "virtual": false,
-            "clock": false
-          },
-          "position": {
-            "x": 368,
-            "y": 16
-          }
-        },
-        {
-          "id": "9bb5d9c8-dceb-4355-aa5b-f82d9ddb7903",
-          "type": "basic.output",
-          "data": {
-            "name": "LED",
-            "pins": [
-              {
-                "index": "0",
-                "name": "D10",
-                "value": "22"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 544,
-            "y": 16
+            "x": 1128,
+            "y": -16
           }
         },
         {
@@ -128,22 +89,61 @@
           }
         },
         {
-          "id": "83d7e040-53fd-4962-804f-65c571a3abbf",
+          "id": "d6064287-814e-468c-84e7-8efdca29b176",
           "type": "basic.output",
           "data": {
-            "name": "Zumbador",
+            "name": "LED",
             "pins": [
               {
                 "index": "0",
-                "name": "D7",
-                "value": "9"
+                "name": "D11",
+                "value": "21"
               }
             ],
             "virtual": false
           },
           "position": {
-            "x": 1496,
-            "y": 64
+            "x": 1096,
+            "y": 256
+          }
+        },
+        {
+          "id": "4877f05a-50ef-4cff-93cc-f549be97cbb6",
+          "type": "basic.input",
+          "data": {
+            "name": "IR",
+            "pins": [
+              {
+                "index": "0",
+                "name": "D6",
+                "value": "10"
+              }
+            ],
+            "virtual": false,
+            "clock": false
+          },
+          "position": {
+            "x": 920,
+            "y": 336
+          }
+        },
+        {
+          "id": "9bb5d9c8-dceb-4355-aa5b-f82d9ddb7903",
+          "type": "basic.output",
+          "data": {
+            "name": "LED",
+            "pins": [
+              {
+                "index": "0",
+                "name": "D10",
+                "value": "22"
+              }
+            ],
+            "virtual": false
+          },
+          "position": {
+            "x": 1096,
+            "y": 336
           }
         },
         {
@@ -161,8 +161,8 @@
             "virtual": false
           },
           "position": {
-            "x": 1240,
-            "y": 584
+            "x": 312,
+            "y": 384
           }
         },
         {
@@ -181,8 +181,8 @@
             "clock": false
           },
           "position": {
-            "x": 752,
-            "y": 704
+            "x": -176,
+            "y": 504
           }
         },
         {
@@ -207,8 +207,8 @@
             "local": false
           },
           "position": {
-            "x": 752,
-            "y": 480
+            "x": -176,
+            "y": 280
           }
         },
         {
@@ -220,8 +220,8 @@
             "local": false
           },
           "position": {
-            "x": 888,
-            "y": -48
+            "x": 520,
+            "y": -128
           }
         },
         {
@@ -233,8 +233,8 @@
             "local": false
           },
           "position": {
-            "x": 888,
-            "y": 112
+            "x": 520,
+            "y": 64
           }
         },
         {
@@ -246,16 +246,16 @@
             "local": false
           },
           "position": {
-            "x": 1016,
-            "y": 256
+            "x": 648,
+            "y": 264
           }
         },
         {
           "id": "876e2ebd-d6d8-4b34-830e-07df8792847e",
           "type": "0e64bc728cbb881007bf629e44dc5b5b0fa3a34c",
           "position": {
-            "x": 888,
-            "y": 48
+            "x": 520,
+            "y": -32
           },
           "size": {
             "width": 96,
@@ -266,8 +266,8 @@
           "id": "a40a5322-aa4d-4a5a-ae07-b0f0d6f771d9",
           "type": "5cc6ec961df1a19b78d61422b28169fc0f69384b",
           "position": {
-            "x": 1152,
-            "y": 64
+            "x": 784,
+            "y": -16
           },
           "size": {
             "width": 96,
@@ -302,8 +302,8 @@
           "id": "46c26d54-ba34-4ff9-9672-9d39806ef312",
           "type": "3a11d008550d9f680f59785bb26f5b685069a5a1",
           "position": {
-            "x": 1080,
-            "y": 584
+            "x": 152,
+            "y": 384
           },
           "size": {
             "width": 96,
@@ -314,8 +314,8 @@
           "id": "8e84216a-e3f5-45b4-ae65-9a645c2004a6",
           "type": "0e64bc728cbb881007bf629e44dc5b5b0fa3a34c",
           "position": {
-            "x": 752,
-            "y": 584
+            "x": -176,
+            "y": 384
           },
           "size": {
             "width": 96,
@@ -326,8 +326,8 @@
           "id": "43db16e7-938a-47e7-8685-47efc53b0785",
           "type": "b2090f68ef94fd3c5c0eaea93eb6ba7e80aff0b6",
           "position": {
-            "x": 912,
-            "y": 600
+            "x": -16,
+            "y": 400
           },
           "size": {
             "width": 96,
@@ -338,8 +338,8 @@
           "id": "d270e874-c50b-4de3-a02c-592be268bb75",
           "type": "0e64bc728cbb881007bf629e44dc5b5b0fa3a34c",
           "position": {
-            "x": 888,
-            "y": 208
+            "x": 520,
+            "y": 160
           },
           "size": {
             "width": 96,
@@ -350,8 +350,8 @@
           "id": "a2c5e2c8-d554-40b9-a898-dcad138a030c",
           "type": "0e64bc728cbb881007bf629e44dc5b5b0fa3a34c",
           "position": {
-            "x": 1016,
-            "y": 352
+            "x": 648,
+            "y": 360
           },
           "size": {
             "width": 96,
@@ -362,12 +362,76 @@
           "id": "6875aab8-5f6c-4ab6-be34-3213e200480a",
           "type": "b2090f68ef94fd3c5c0eaea93eb6ba7e80aff0b6",
           "position": {
-            "x": 1352,
-            "y": 64
+            "x": 984,
+            "y": -16
           },
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "261d7a11-f61d-4673-b8c3-27ed905be37e",
+          "type": "basic.info",
+          "data": {
+            "info": "## LEDs intermitentes (Circuito vivo)",
+            "readonly": true
+          },
+          "position": {
+            "x": -176,
+            "y": -264
+          },
+          "size": {
+            "width": 448,
+            "height": 32
+          }
+        },
+        {
+          "id": "a8987a74-9435-4b7c-9b6b-5f362782ba02",
+          "type": "basic.info",
+          "data": {
+            "info": "## Mostrar el estado del sensor de Infrarrojos",
+            "readonly": true
+          },
+          "position": {
+            "x": 840,
+            "y": 160
+          },
+          "size": {
+            "width": 472,
+            "height": 56
+          }
+        },
+        {
+          "id": "fe651dff-2902-4cc3-9a18-165b2418ccb4",
+          "type": "basic.info",
+          "data": {
+            "info": "## Movimiento del servo (Limpiaparabrisas)",
+            "readonly": true
+          },
+          "position": {
+            "x": -208,
+            "y": 192
+          },
+          "size": {
+            "width": 432,
+            "height": 56
+          }
+        },
+        {
+          "id": "7fde74ca-97ca-4246-9fc6-0a05ae9dc068",
+          "type": "basic.info",
+          "data": {
+            "info": "## SIRENA",
+            "readonly": true
+          },
+          "position": {
+            "x": 504,
+            "y": -248
+          },
+          "size": {
+            "width": 296,
+            "height": 40
           }
         }
       ],
@@ -506,8 +570,8 @@
           },
           "vertices": [
             {
-              "x": 1016,
-              "y": 200
+              "x": 648,
+              "y": 152
             }
           ]
         },
